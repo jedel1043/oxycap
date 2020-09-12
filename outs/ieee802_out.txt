@@ -1,0 +1,638 @@
+ Packet 1 (64 bytes)                                                
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 1 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  3 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Unnumbered Frame 
+ 		Code:                          SABM extended SABME 
+ 		Poll                            
+                                 
+                                 
+                                 
+ Packet 2 (64 bytes)                                                
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 2 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:AE:BA, Dest: 00:02:B3:9C:DF:1B       
+ 	Source:                        00:02:B3:9C:AE:BA 
+ 	Destination:                   00:02:B3:9C:DF:1B 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  3 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          Other (0xF1) 
+ 	I/G:                           Individual 
+ 	C/R:                           Response 
+ 	Control type:                  Unnumbered Frame 
+ 		Code:                          Unnumbered acknowledgment UA 
+ 		Final                           
+                                 
+                                 
+                                 
+ Packet 3 (64 bytes)                                                
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 3 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  4 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Supervisory Extended Frame  
+ 		Code:                          Receive Ready (RR) 
+ 		Receive #:                     0 
+ 		Poll                            
+                                 
+                                 
+                                 
+ Packet 4 (64 bytes)                                                
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 4 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:AE:BA, Dest: 00:02:B3:9C:DF:1B       
+ 	Source:                        00:02:B3:9C:AE:BA 
+ 	Destination:                   00:02:B3:9C:DF:1B 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  4 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          Other (0xF1) 
+ 	I/G:                           Individual 
+ 	C/R:                           Response 
+ 	Control type:                  Supervisory Extended Frame  
+ 		Code:                          Receive Ready (RR) 
+ 		Receive #:                     0 
+ 		Final                           
+                                 
+                                 
+                                 
+ Packet 5 (64 bytes)                                                
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 5 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  18 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Information Extended Frame 
+ 		Receive #:                     0 
+ 		Send #:                        0 
+ 		Poll                            
+                                 
+                                 
+                                 
+ Packet 6 (64 bytes)                                                
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 6 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:AE:BA, Dest: 00:02:B3:9C:DF:1B       
+ 	Source:                        00:02:B3:9C:AE:BA 
+ 	Destination:                   00:02:B3:9C:DF:1B 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  18 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Information Extended Frame 
+ 		Receive #:                     1 
+ 		Send #:                        0 
+ 		Poll                            
+                                 
+                                 
+                                 
+ Packet 7 (64 bytes)                                                
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 7 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:AE:BA, Dest: 00:02:B3:9C:DF:1B       
+ 	Source:                        00:02:B3:9C:AE:BA 
+ 	Destination:                   00:02:B3:9C:DF:1B 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  4 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          Other (0xF1) 
+ 	I/G:                           Individual 
+ 	C/R:                           Response 
+ 	Control type:                  Supervisory Extended Frame  
+ 		Code:                          Receive Ready (RR) 
+ 		Receive #:                     1 
+ 		Final                           
+                                 
+                                 
+                                 
+ Packet 8 (64 bytes)                                                
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 8 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  4 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          Other (0xF1) 
+ 	I/G:                           Individual 
+ 	C/R:                           Response 
+ 	Control type:                  Supervisory Extended Frame  
+ 		Code:                          Receive Ready (RR) 
+ 		Receive #:                     1 
+ 		Final                           
+                                 
+                                 
+                                 
+ Packet 9 (192 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 9 
+ 	Packet length:                 192 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  172 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Information Extended Frame 
+ 		Receive #:                     1 
+ 		Send #:                        1 
+                                 
+                                 
+                                 
+ Packet 10 (64 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 10 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:AE:BA, Dest: 00:02:B3:9C:DF:1B       
+ 	Source:                        00:02:B3:9C:AE:BA 
+ 	Destination:                   00:02:B3:9C:DF:1B 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  4 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          Other (0xF1) 
+ 	I/G:                           Individual 
+ 	C/R:                           Response 
+ 	Control type:                  Supervisory Extended Frame  
+ 		Code:                          Receive Ready (RR) 
+ 		Receive #:                     2 
+                                 
+                                 
+                                 
+ Packet 11 (112 bytes)                                              
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 11 
+ 	Packet length:                 112 
+ Ethernet II, Src: 00:02:B3:9C:AE:BA, Dest: 00:02:B3:9C:DF:1B       
+ 	Source:                        00:02:B3:9C:AE:BA 
+ 	Destination:                   00:02:B3:9C:DF:1B 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  95 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Information Extended Frame 
+ 		Receive #:                     2 
+ 		Send #:                        1 
+                                 
+                                 
+                                 
+ Packet 12 (64 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 12 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  4 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          Other (0xF1) 
+ 	I/G:                           Individual 
+ 	C/R:                           Response 
+ 	Control type:                  Supervisory Extended Frame  
+ 		Code:                          Receive Ready (RR) 
+ 		Receive #:                     2 
+                                 
+                                 
+                                 
+ Packet 13 (160 bytes)                                              
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 13 
+ 	Packet length:                 160 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  145 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Information Extended Frame 
+ 		Receive #:                     2 
+ 		Send #:                        2 
+                                 
+                                 
+                                 
+ Packet 14 (64 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 14 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:AE:BA, Dest: 00:02:B3:9C:DF:1B       
+ 	Source:                        00:02:B3:9C:AE:BA 
+ 	Destination:                   00:02:B3:9C:DF:1B 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  4 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          Other (0xF1) 
+ 	I/G:                           Individual 
+ 	C/R:                           Response 
+ 	Control type:                  Supervisory Extended Frame  
+ 		Code:                          Receive Ready (RR) 
+ 		Receive #:                     3 
+                                 
+                                 
+                                 
+ Packet 15 (96 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 15 
+ 	Packet length:                 96 
+ Ethernet II, Src: 00:02:B3:9C:AE:BA, Dest: 00:02:B3:9C:DF:1B       
+ 	Source:                        00:02:B3:9C:AE:BA 
+ 	Destination:                   00:02:B3:9C:DF:1B 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  70 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Information Extended Frame 
+ 		Receive #:                     3 
+ 		Send #:                        2 
+                                 
+                                 
+                                 
+ Packet 16 (64 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 16 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  4 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          Other (0xF1) 
+ 	I/G:                           Individual 
+ 	C/R:                           Response 
+ 	Control type:                  Supervisory Extended Frame  
+ 		Code:                          Receive Ready (RR) 
+ 		Receive #:                     3 
+                                 
+                                 
+                                 
+ Packet 17 (144 bytes)                                              
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 17 
+ 	Packet length:                 144 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  126 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Information Extended Frame 
+ 		Receive #:                     3 
+ 		Send #:                        3 
+                                 
+                                 
+                                 
+ Packet 18 (64 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 18 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:AE:BA, Dest: 00:02:B3:9C:DF:1B       
+ 	Source:                        00:02:B3:9C:AE:BA 
+ 	Destination:                   00:02:B3:9C:DF:1B 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  4 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          Other (0xF1) 
+ 	I/G:                           Individual 
+ 	C/R:                           Response 
+ 	Control type:                  Supervisory Extended Frame  
+ 		Code:                          Receive Ready (RR) 
+ 		Receive #:                     4 
+                                 
+                                 
+                                 
+ Packet 19 (64 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 19 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  4 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          Other (0xF1) 
+ 	I/G:                           Individual 
+ 	C/R:                           Response 
+ 	Control type:                  Supervisory Extended Frame  
+ 		Code:                          Receive Ready (RR) 
+ 		Receive #:                     4 
+                                 
+                                 
+                                 
+ Packet 20 (144 bytes)                                              
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 20 
+ 	Packet length:                 144 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  126 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Information Extended Frame 
+ 		Receive #:                     4 
+ 		Send #:                        4 
+                                 
+                                 
+                                 
+ Packet 21 (64 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 21 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:AE:BA, Dest: 00:02:B3:9C:DF:1B       
+ 	Source:                        00:02:B3:9C:AE:BA 
+ 	Destination:                   00:02:B3:9C:DF:1B 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  4 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          Other (0xF1) 
+ 	I/G:                           Individual 
+ 	C/R:                           Response 
+ 	Control type:                  Supervisory Extended Frame  
+ 		Code:                          Receive Ready (RR) 
+ 		Receive #:                     5 
+                                 
+                                 
+                                 
+ Packet 22 (64 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 22 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  4 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          Other (0xF1) 
+ 	I/G:                           Individual 
+ 	C/R:                           Response 
+ 	Control type:                  Supervisory Extended Frame  
+ 		Code:                          Receive Ready (RR) 
+ 		Receive #:                     5 
+                                 
+                                 
+                                 
+ Packet 23 (64 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 23 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  18 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Information Extended Frame 
+ 		Receive #:                     5 
+ 		Send #:                        5 
+ 		Poll                            
+                                 
+                                 
+                                 
+ Packet 24 (64 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 24 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:AE:BA, Dest: 00:02:B3:9C:DF:1B       
+ 	Source:                        00:02:B3:9C:AE:BA 
+ 	Destination:                   00:02:B3:9C:DF:1B 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  4 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          Other (0xF1) 
+ 	I/G:                           Individual 
+ 	C/R:                           Response 
+ 	Control type:                  Supervisory Extended Frame  
+ 		Code:                          Receive Ready (RR) 
+ 		Receive #:                     6 
+ 		Final                           
+                                 
+                                 
+                                 
+ Packet 25 (160 bytes)                                              
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 25 
+ 	Packet length:                 160 
+ Ethernet II, Src: 00:04:AC:44:4D:02, Dest: 03:00:00:00:00:01       
+ 	Source:                        00:04:AC:44:4D:02 
+ 	Destination:                   03:00:00:00:00:01 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  139 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Unnumbered Frame 
+ 		Code:                          Unnumbered information UI 
+                                 
+                                 
+                                 
+ Packet 26 (80 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 26 
+ 	Packet length:                 80 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  53 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Information Extended Frame 
+ 		Receive #:                     5 
+ 		Send #:                        6 
+                                 
+                                 
+                                 
+ Packet 27 (80 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 27 
+ 	Packet length:                 80 
+ Ethernet II, Src: 00:02:B3:9C:AE:BA, Dest: 00:02:B3:9C:DF:1B       
+ 	Source:                        00:02:B3:9C:AE:BA 
+ 	Destination:                   00:02:B3:9C:DF:1B 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  53 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Information Extended Frame 
+ 		Receive #:                     7 
+ 		Send #:                        5 
+                                 
+                                 
+                                 
+ Packet 28 (64 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 28 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  18 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Information Extended Frame 
+ 		Receive #:                     6 
+ 		Send #:                        7 
+ 		Poll                            
+                                 
+                                 
+                                 
+ Packet 29 (64 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 29 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:AE:BA, Dest: 00:02:B3:9C:DF:1B       
+ 	Source:                        00:02:B3:9C:AE:BA 
+ 	Destination:                   00:02:B3:9C:DF:1B 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  4 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          Other (0xF1) 
+ 	I/G:                           Individual 
+ 	C/R:                           Response 
+ 	Control type:                  Supervisory Extended Frame  
+ 		Code:                          Receive Ready (RR) 
+ 		Receive #:                     8 
+ 		Final                           
+                                 
+                                 
+                                 
+ Packet 30 (64 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 30 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  18 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Information Extended Frame 
+ 		Receive #:                     6 
+ 		Send #:                        8 
+ 		Poll                            
+                                 
+                                 
+                                 
+ Packet 31 (64 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 31 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:AE:BA, Dest: 00:02:B3:9C:DF:1B       
+ 	Source:                        00:02:B3:9C:AE:BA 
+ 	Destination:                   00:02:B3:9C:DF:1B 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  4 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          Other (0xF1) 
+ 	I/G:                           Individual 
+ 	C/R:                           Response 
+ 	Control type:                  Supervisory Extended Frame  
+ 		Code:                          Receive Ready (RR) 
+ 		Receive #:                     9 
+ 		Final                           
+                                 
+                                 
+                                 
+ Packet 32 (64 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 32 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:DF:1B, Dest: 00:02:B3:9C:AE:BA       
+ 	Source:                        00:02:B3:9C:DF:1B 
+ 	Destination:                   00:02:B3:9C:AE:BA 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  3 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          IBM NetBIOS 
+ 	I/G:                           Individual 
+ 	C/R:                           Command 
+ 	Control type:                  Unnumbered Frame 
+ 		Code:                          Disconnect DISC 
+ 		Poll                            
+                                 
+                                 
+                                 
+ Packet 33 (64 bytes)                                               
+ 	Timestamp:                     2014-03-24T12:24:34.395685473-06:00 
+ 	Packet number:                 33 
+ 	Packet length:                 64 
+ Ethernet II, Src: 00:02:B3:9C:AE:BA, Dest: 00:02:B3:9C:DF:1B       
+ 	Source:                        00:02:B3:9C:AE:BA 
+ 	Destination:                   00:02:B3:9C:DF:1B 
+ 	Type:                          IEEE 802.2 LLC (< 1500) 
+ 	Payload size:                  3 
+ 	DSAP:                          IBM NetBIOS 
+ 	SSAP:                          Other (0xF1) 
+ 	I/G:                           Individual 
+ 	C/R:                           Response 
+ 	Control type:                  Unnumbered Frame 
+ 		Code:                          Unnumbered acknowledgment UA 
+ 		Final                           
+                                 
+                                 
+                                 

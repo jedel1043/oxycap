@@ -1,0 +1,312 @@
+ Packet 1 (74 bytes)                                                
+ 	Timestamp:                     2011-06-26T22:21:28.309144887-05:00 
+ 	Packet number:                 1 
+ 	Packet length:                 74 
+ Ethernet II, Src: 00:22:5F:3F:98:91, Dest: 00:0C:CE:13:B9:A0       
+ 	Source:                        00:22:5F:3F:98:91 
+ 	Destination:                   00:0C:CE:13:B9:A0 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.168.0.89, Dest: 192.168.0.1            
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  60 bytes 
+ 	Identification:                0xC63E (50750) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  128 
+ 	Header checksum:               0xF2D7 (PASS) 
+ 	Source address:                192.168.0.89 
+ 	Destination address:           192.168.0.1 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Echo request (used to ping)     
+ 	Header checksum:               0x425C (PASS) 
+                                 
+                                 
+                                 
+ Packet 2 (74 bytes)                                                
+ 	Timestamp:                     2011-06-26T22:21:28.309144887-05:00 
+ 	Packet number:                 2 
+ 	Packet length:                 74 
+ Ethernet II, Src: 00:22:5F:3F:98:91, Dest: 00:0C:CE:13:B9:A0       
+ 	Source:                        00:22:5F:3F:98:91 
+ 	Destination:                   00:0C:CE:13:B9:A0 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.168.0.89, Dest: 192.168.0.1            
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  60 bytes 
+ 	Identification:                0xC63E (50750) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  128 
+ 	Header checksum:               0xF2D7 (PASS) 
+ 	Source address:                192.168.0.89 
+ 	Destination address:           192.168.0.1 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Echo request (used to ping)     
+ 	Header checksum:               0x425C (PASS) 
+                                 
+                                 
+                                 
+ Packet 3 (74 bytes)                                                
+ 	Timestamp:                     2011-06-26T22:21:28.309144887-05:00 
+ 	Packet number:                 3 
+ 	Packet length:                 74 
+ Ethernet II, Src: 00:0C:CE:13:B9:A0, Dest: 00:22:5F:3F:98:91       
+ 	Source:                        00:0C:CE:13:B9:A0 
+ 	Destination:                   00:22:5F:3F:98:91 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.168.0.1, Dest: 192.168.0.89            
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  60 bytes 
+ 	Identification:                0xC63E (50750) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  255 
+ 	Header checksum:               0x73D7 (PASS) 
+ 	Source address:                192.168.0.1 
+ 	Destination address:           192.168.0.89 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Echo reply (used to ping)       
+ 	Header checksum:               0x4A5C (PASS) 
+                                 
+                                 
+                                 
+ Packet 4 (74 bytes)                                                
+ 	Timestamp:                     2011-06-26T22:21:29.309144888-05:00 
+ 	Packet number:                 4 
+ 	Packet length:                 74 
+ Ethernet II, Src: 00:22:5F:3F:98:91, Dest: 00:0C:CE:13:B9:A0       
+ 	Source:                        00:22:5F:3F:98:91 
+ 	Destination:                   00:0C:CE:13:B9:A0 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.168.0.89, Dest: 192.168.0.1            
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  60 bytes 
+ 	Identification:                0xC643 (50755) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  128 
+ 	Header checksum:               0xF2D2 (PASS) 
+ 	Source address:                192.168.0.89 
+ 	Destination address:           192.168.0.1 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Echo request (used to ping)     
+ 	Header checksum:               0x415C (PASS) 
+                                 
+                                 
+                                 
+ Packet 5 (74 bytes)                                                
+ 	Timestamp:                     2011-06-26T22:21:29.309144888-05:00 
+ 	Packet number:                 5 
+ 	Packet length:                 74 
+ Ethernet II, Src: 00:22:5F:3F:98:91, Dest: 00:0C:CE:13:B9:A0       
+ 	Source:                        00:22:5F:3F:98:91 
+ 	Destination:                   00:0C:CE:13:B9:A0 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.168.0.89, Dest: 192.168.0.1            
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  60 bytes 
+ 	Identification:                0xC643 (50755) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  128 
+ 	Header checksum:               0xF2D2 (PASS) 
+ 	Source address:                192.168.0.89 
+ 	Destination address:           192.168.0.1 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Echo request (used to ping)     
+ 	Header checksum:               0x415C (PASS) 
+                                 
+                                 
+                                 
+ Packet 6 (74 bytes)                                                
+ 	Timestamp:                     2011-06-26T22:21:29.309144888-05:00 
+ 	Packet number:                 6 
+ 	Packet length:                 74 
+ Ethernet II, Src: 00:0C:CE:13:B9:A0, Dest: 00:22:5F:3F:98:91       
+ 	Source:                        00:0C:CE:13:B9:A0 
+ 	Destination:                   00:22:5F:3F:98:91 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.168.0.1, Dest: 192.168.0.89            
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  60 bytes 
+ 	Identification:                0xC643 (50755) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  255 
+ 	Header checksum:               0x73D2 (PASS) 
+ 	Source address:                192.168.0.1 
+ 	Destination address:           192.168.0.89 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Echo reply (used to ping)       
+ 	Header checksum:               0x495C (PASS) 
+                                 
+                                 
+                                 
+ Packet 7 (74 bytes)                                                
+ 	Timestamp:                     2011-06-26T22:21:30.309144889-05:00 
+ 	Packet number:                 7 
+ 	Packet length:                 74 
+ Ethernet II, Src: 00:22:5F:3F:98:91, Dest: 00:0C:CE:13:B9:A0       
+ 	Source:                        00:22:5F:3F:98:91 
+ 	Destination:                   00:0C:CE:13:B9:A0 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.168.0.89, Dest: 192.168.0.1            
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  60 bytes 
+ 	Identification:                0xC644 (50756) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  128 
+ 	Header checksum:               0xF2D1 (PASS) 
+ 	Source address:                192.168.0.89 
+ 	Destination address:           192.168.0.1 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Echo request (used to ping)     
+ 	Header checksum:               0x405C (PASS) 
+                                 
+                                 
+                                 
+ Packet 8 (74 bytes)                                                
+ 	Timestamp:                     2011-06-26T22:21:30.309144889-05:00 
+ 	Packet number:                 8 
+ 	Packet length:                 74 
+ Ethernet II, Src: 00:22:5F:3F:98:91, Dest: 00:0C:CE:13:B9:A0       
+ 	Source:                        00:22:5F:3F:98:91 
+ 	Destination:                   00:0C:CE:13:B9:A0 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.168.0.89, Dest: 192.168.0.1            
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  60 bytes 
+ 	Identification:                0xC644 (50756) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  128 
+ 	Header checksum:               0xF2D1 (PASS) 
+ 	Source address:                192.168.0.89 
+ 	Destination address:           192.168.0.1 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Echo request (used to ping)     
+ 	Header checksum:               0x405C (PASS) 
+                                 
+                                 
+                                 
+ Packet 9 (74 bytes)                                                
+ 	Timestamp:                     2011-06-26T22:21:30.309144889-05:00 
+ 	Packet number:                 9 
+ 	Packet length:                 74 
+ Ethernet II, Src: 00:0C:CE:13:B9:A0, Dest: 00:22:5F:3F:98:91       
+ 	Source:                        00:0C:CE:13:B9:A0 
+ 	Destination:                   00:22:5F:3F:98:91 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.168.0.1, Dest: 192.168.0.89            
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  60 bytes 
+ 	Identification:                0xC644 (50756) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  255 
+ 	Header checksum:               0x73D1 (PASS) 
+ 	Source address:                192.168.0.1 
+ 	Destination address:           192.168.0.89 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Echo reply (used to ping)       
+ 	Header checksum:               0x485C (PASS) 
+                                 
+                                 
+                                 
+ Packet 10 (74 bytes)                                               
+ 	Timestamp:                     2011-06-26T22:21:31.309144890-05:00 
+ 	Packet number:                 10 
+ 	Packet length:                 74 
+ Ethernet II, Src: 00:22:5F:3F:98:91, Dest: 00:0C:CE:13:B9:A0       
+ 	Source:                        00:22:5F:3F:98:91 
+ 	Destination:                   00:0C:CE:13:B9:A0 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.168.0.89, Dest: 192.168.0.1            
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  60 bytes 
+ 	Identification:                0xC645 (50757) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  128 
+ 	Header checksum:               0xF2D0 (PASS) 
+ 	Source address:                192.168.0.89 
+ 	Destination address:           192.168.0.1 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Echo request (used to ping)     
+ 	Header checksum:               0x3F5C (PASS) 
+                                 
+                                 
+                                 
+ Packet 11 (74 bytes)                                               
+ 	Timestamp:                     2011-06-26T22:21:31.309144890-05:00 
+ 	Packet number:                 11 
+ 	Packet length:                 74 
+ Ethernet II, Src: 00:22:5F:3F:98:91, Dest: 00:0C:CE:13:B9:A0       
+ 	Source:                        00:22:5F:3F:98:91 
+ 	Destination:                   00:0C:CE:13:B9:A0 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.168.0.89, Dest: 192.168.0.1            
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  60 bytes 
+ 	Identification:                0xC645 (50757) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  128 
+ 	Header checksum:               0xF2D0 (PASS) 
+ 	Source address:                192.168.0.89 
+ 	Destination address:           192.168.0.1 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Echo request (used to ping)     
+ 	Header checksum:               0x3F5C (PASS) 
+                                 
+                                 
+                                 
+ Packet 12 (74 bytes)                                               
+ 	Timestamp:                     2011-06-26T22:21:31.309144890-05:00 
+ 	Packet number:                 12 
+ 	Packet length:                 74 
+ Ethernet II, Src: 00:0C:CE:13:B9:A0, Dest: 00:22:5F:3F:98:91       
+ 	Source:                        00:0C:CE:13:B9:A0 
+ 	Destination:                   00:22:5F:3F:98:91 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.168.0.1, Dest: 192.168.0.89            
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  60 bytes 
+ 	Identification:                0xC645 (50757) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  255 
+ 	Header checksum:               0x73D0 (PASS) 
+ 	Source address:                192.168.0.1 
+ 	Destination address:           192.168.0.89 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Echo reply (used to ping)       
+ 	Header checksum:               0x475C (PASS) 
+                                 
+                                 
+                                 

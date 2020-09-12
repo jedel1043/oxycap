@@ -1,0 +1,4124 @@
+ Packet 1 (60 bytes)                                                
+ 	Timestamp:                     2007-10-17T05:38:27.192617506-05:00 
+ 	Packet number:                 1 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:00:01       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:00:01 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.0.1               
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xF770 (63344) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD6B5 (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.0.1 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	General query                   
+ 	Max response time:             10 sec 
+ 	Header checksum:               0xEE9B (PASS) 
+                                 
+                                 
+                                 
+ Packet 2 (60 bytes)                                                
+ 	Timestamp:                     2007-10-17T05:38:27.192617506-05:00 
+ 	Packet number:                 2 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:14:38:E6:47:C6, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:14:38:E6:47:C6 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.20, Dest: 224.0.1.60               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x206D (8301) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x18DE (PASS) 
+ 	Source address:                10.60.0.20 
+ 	Destination address:           224.0.1.60 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x08C3 (FAIL) 
+                                 
+                                 
+                                 
+ Packet 3 (60 bytes)                                                
+ 	Timestamp:                     2007-10-17T05:38:27.192617506-05:00 
+ 	Packet number:                 3 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:14:5E:94:58:7B, Dest: 01:00:5E:00:00:02       
+ 	Source:                        00:14:5E:94:58:7B 
+ 	Destination:                   01:00:5E:00:00:02 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.5, Dest: 224.0.0.2                 
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x7A0E (31246) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC086 (PASS) 
+ 	Source address:                10.60.0.5 
+ 	Destination address:           224.0.0.2 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.2 
+ 	Header checksum:               0x09FD (PASS) 
+                                 
+                                 
+                                 
+ Packet 4 (60 bytes)                                                
+ 	Timestamp:                     2007-10-17T05:38:28.192617507-05:00 
+ 	Packet number:                 4 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:15:58:DC:A8:4D, Dest: 01:00:5E:7F:FF:FA       
+ 	Source:                        00:15:58:DC:A8:4D 
+ 	Destination:                   01:00:5E:7F:FF:FA 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.2.7, Dest: 239.255.255.250           
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x0E47 (3655) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x1A54 (PASS) 
+ 	Source address:                10.60.2.7 
+ 	Destination address:           239.255.255.250 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.250 
+ 	Header checksum:               0xFA04 (PASS) 
+                                 
+                                 
+                                 
+ Packet 5 (60 bytes)                                                
+ 	Timestamp:                     2007-10-17T05:38:28.192617507-05:00 
+ 	Packet number:                 5 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:11:11:19:75:40, Dest: 01:00:5E:00:00:09       
+ 	Source:                        00:11:11:19:75:40 
+ 	Destination:                   01:00:5E:00:00:09 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.50.58, Dest: 224.0.0.9               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x0B00 (2816) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xFD58 (PASS) 
+ 	Source address:                10.60.50.58 
+ 	Destination address:           224.0.0.9 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.9 
+ 	Header checksum:               0x09F6 (PASS) 
+                                 
+                                 
+                                 
+ Packet 6 (60 bytes)                                                
+ 	Timestamp:                     2007-10-17T05:38:29.192617508-05:00 
+ 	Packet number:                 6 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:15:58:DC:70:68, Dest: 01:00:5E:00:00:FB       
+ 	Source:                        00:15:58:DC:70:68 
+ 	Destination:                   01:00:5E:00:00:FB 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.5.102, Dest: 224.0.0.251             
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x4EA1 (20129) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xE599 (PASS) 
+ 	Source address:                10.60.5.102 
+ 	Destination address:           224.0.0.251 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.251 
+ 	Header checksum:               0x0904 (PASS) 
+                                 
+                                 
+                                 
+ Packet 7 (60 bytes)                                                
+ 	Timestamp:                     2007-10-17T05:38:29.192617508-05:00 
+ 	Packet number:                 7 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:15:58:DC:70:68, Dest: 01:00:5E:7F:FF:FD       
+ 	Source:                        00:15:58:DC:70:68 
+ 	Destination:                   01:00:5E:7F:FF:FD 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.5.102, Dest: 239.255.255.253         
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x4EA2 (20130) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD696 (PASS) 
+ 	Source address:                10.60.5.102 
+ 	Destination address:           239.255.255.253 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.253 
+ 	Header checksum:               0xFA01 (PASS) 
+                                 
+                                 
+                                 
+ Packet 8 (60 bytes)                                                
+ 	Timestamp:                     2007-10-17T05:38:30.192617509-05:00 
+ 	Packet number:                 8 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:02:89:D6       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:02:89:D6 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.2.137.214          
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xF781 (63361) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x8CB1 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.2.137.214 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.2.137.214 
+ 	Header checksum:               0x8026 (PASS) 
+                                 
+                                 
+                                 
+ Packet 9 (60 bytes)                                                
+ 	Timestamp:                     2007-10-17T05:38:30.192617509-05:00 
+ 	Packet number:                 9 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:01:28       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:01:28 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.1.40              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xF782 (63362) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD57C (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.1.40 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.40 
+ 	Header checksum:               0x08D7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 10 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:38:31.192617510-05:00 
+ 	Packet number:                 10 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:40:39:9A, Dest: 01:00:5E:00:01:18       
+ 	Source:                        00:03:47:40:39:9A 
+ 	Destination:                   01:00:5E:00:01:18 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.3.36, Dest: 224.0.1.24               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x8CB5 (36021) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xA9AA (PASS) 
+ 	Source address:                10.60.3.36 
+ 	Destination address:           224.0.1.24 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.24 
+ 	Header checksum:               0x08E7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 11 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:38:32.192617511-05:00 
+ 	Packet number:                 11 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:1B:C1:A8, Dest: 01:00:5E:7F:FF:FE       
+ 	Source:                        00:03:47:1B:C1:A8 
+ 	Destination:                   01:00:5E:7F:FF:FE 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.12, Dest: 239.255.255.254          
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x1D2D (7469) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0D65 (PASS) 
+ 	Source address:                10.60.0.12 
+ 	Destination address:           239.255.255.254 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.254 
+ 	Header checksum:               0xFA00 (PASS) 
+                                 
+                                 
+                                 
+ Packet 12 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:38:32.192617511-05:00 
+ 	Packet number:                 12 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:16:D4:F2:B6:C3, Dest: 01:00:5E:00:00:FC       
+ 	Source:                        00:16:D4:F2:B6:C3 
+ 	Destination:                   01:00:5E:00:00:FC 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.4.5, Dest: 224.0.0.252               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x279B (10139) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0E00 (PASS) 
+ 	Source address:                10.60.4.5 
+ 	Destination address:           224.0.0.252 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.252 
+ 	Header checksum:               0x0903 (PASS) 
+                                 
+                                 
+                                 
+ Packet 13 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:38:35.192617514-05:00 
+ 	Packet number:                 13 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:30:C1:BF:57:55, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:30:C1:BF:57:55 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.132, Dest: 224.0.1.60              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x6A78 (27256) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x636C (PASS) 
+ 	Source address:                10.60.0.132 
+ 	Destination address:           224.0.1.60 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x0CC3 (FAIL) 
+                                 
+                                 
+                                 
+ Packet 14 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:38:49.192617528-05:00 
+ 	Packet number:                 14 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D57 (19799) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC09B (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 15 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:39:19.192617558-05:00 
+ 	Packet number:                 15 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D58 (19800) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC09A (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 16 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:39:27.192617566-05:00 
+ 	Packet number:                 16 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:00:01       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:00:01 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.0.1               
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xF8D8 (63704) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD54D (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.0.1 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	General query                   
+ 	Max response time:             10 sec 
+ 	Header checksum:               0xEE9B (PASS) 
+                                 
+                                 
+                                 
+ Packet 17 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:39:27.192617566-05:00 
+ 	Packet number:                 17 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:40:39:9A, Dest: 01:00:5E:00:01:18       
+ 	Source:                        00:03:47:40:39:9A 
+ 	Destination:                   01:00:5E:00:01:18 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.3.36, Dest: 224.0.1.24               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x9179 (37241) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xA4E6 (PASS) 
+ 	Source address:                10.60.3.36 
+ 	Destination address:           224.0.1.24 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.24 
+ 	Header checksum:               0x08E7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 18 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:39:28.192617567-05:00 
+ 	Packet number:                 18 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:14:5E:94:58:7B, Dest: 01:00:5E:00:00:02       
+ 	Source:                        00:14:5E:94:58:7B 
+ 	Destination:                   01:00:5E:00:00:02 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.5, Dest: 224.0.0.2                 
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x7AFE (31486) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xBF96 (PASS) 
+ 	Source address:                10.60.0.5 
+ 	Destination address:           224.0.0.2 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.2 
+ 	Header checksum:               0x09FD (PASS) 
+                                 
+                                 
+                                 
+ Packet 19 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:39:28.192617567-05:00 
+ 	Packet number:                 19 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:11:11:AD:CC:9C, Dest: 01:00:5E:7F:FF:FA       
+ 	Source:                        00:11:11:AD:CC:9C 
+ 	Destination:                   01:00:5E:7F:FF:FA 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.212, Dest: 239.255.255.250         
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0xB694 (46740) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x7339 (PASS) 
+ 	Source address:                10.60.0.212 
+ 	Destination address:           239.255.255.250 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.250 
+ 	Header checksum:               0xFA04 (PASS) 
+                                 
+                                 
+                                 
+ Packet 20 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:39:28.192617567-05:00 
+ 	Packet number:                 20 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:30:C1:BF:57:55, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:30:C1:BF:57:55 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.132, Dest: 224.0.1.60              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x6A79 (27257) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x636B (PASS) 
+ 	Source address:                10.60.0.132 
+ 	Destination address:           224.0.1.60 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x0CC3 (FAIL) 
+                                 
+                                 
+                                 
+ Packet 21 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:39:28.192617567-05:00 
+ 	Packet number:                 21 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:02:89:D6       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:02:89:D6 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.2.137.214           
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xF8DC (63708) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x4B72 (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.2.137.214 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.2.137.214 
+ 	Header checksum:               0x8026 (PASS) 
+                                 
+                                 
+                                 
+ Packet 22 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:39:28.192617567-05:00 
+ 	Packet number:                 22 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:15:58:DC:D9:F6, Dest: 01:00:5E:00:00:FB       
+ 	Source:                        00:15:58:DC:D9:F6 
+ 	Destination:                   01:00:5E:00:00:FB 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.5.103, Dest: 224.0.0.251             
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x772B (30507) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xBD0E (PASS) 
+ 	Source address:                10.60.5.103 
+ 	Destination address:           224.0.0.251 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.251 
+ 	Header checksum:               0x0904 (PASS) 
+                                 
+                                 
+                                 
+ Packet 23 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:39:31.192617570-05:00 
+ 	Packet number:                 23 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:11:11:19:75:40, Dest: 01:00:5E:00:00:09       
+ 	Source:                        00:11:11:19:75:40 
+ 	Destination:                   01:00:5E:00:00:09 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.50.58, Dest: 224.0.0.9               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x0B50 (2896) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xFD08 (PASS) 
+ 	Source address:                10.60.50.58 
+ 	Destination address:           224.0.0.9 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.9 
+ 	Header checksum:               0x09F6 (PASS) 
+                                 
+                                 
+                                 
+ Packet 24 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:39:32.192617571-05:00 
+ 	Packet number:                 24 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:1B:C1:A8, Dest: 01:00:5E:7F:FF:FE       
+ 	Source:                        00:03:47:1B:C1:A8 
+ 	Destination:                   01:00:5E:7F:FF:FE 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.12, Dest: 239.255.255.254          
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x1DEB (7659) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0CA7 (PASS) 
+ 	Source address:                10.60.0.12 
+ 	Destination address:           239.255.255.254 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.254 
+ 	Header checksum:               0xFA00 (PASS) 
+                                 
+                                 
+                                 
+ Packet 25 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:39:33.192617572-05:00 
+ 	Packet number:                 25 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:15:58:DC:70:68, Dest: 01:00:5E:7F:FF:FD       
+ 	Source:                        00:15:58:DC:70:68 
+ 	Destination:                   01:00:5E:7F:FF:FD 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.5.102, Dest: 239.255.255.253         
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x4ED7 (20183) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD661 (PASS) 
+ 	Source address:                10.60.5.102 
+ 	Destination address:           239.255.255.253 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.253 
+ 	Header checksum:               0xFA01 (PASS) 
+                                 
+                                 
+                                 
+ Packet 26 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:39:33.192617572-05:00 
+ 	Packet number:                 26 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:01:28       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:01:28 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.1.40              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xF8F4 (63732) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD40A (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.1.40 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.40 
+ 	Header checksum:               0x08D7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 27 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:39:36.192617575-05:00 
+ 	Packet number:                 27 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:16:D4:F2:B6:C3, Dest: 01:00:5E:00:00:FC       
+ 	Source:                        00:16:D4:F2:B6:C3 
+ 	Destination:                   01:00:5E:00:00:FC 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.4.5, Dest: 224.0.0.252               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x27C5 (10181) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0DD6 (PASS) 
+ 	Source address:                10.60.4.5 
+ 	Destination address:           224.0.0.252 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.252 
+ 	Header checksum:               0x0903 (PASS) 
+                                 
+                                 
+                                 
+ Packet 28 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:39:48.192617587-05:00 
+ 	Packet number:                 28 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D59 (19801) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC099 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 29 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:40:18.192617617-05:00 
+ 	Packet number:                 29 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D5A (19802) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC098 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 30 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:40:27.192617626-05:00 
+ 	Packet number:                 30 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:00:01       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:00:01 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.0.1               
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xFA16 (64022) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD40F (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.0.1 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	General query                   
+ 	Max response time:             10 sec 
+ 	Header checksum:               0xEE9B (PASS) 
+                                 
+                                 
+                                 
+ Packet 31 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:40:28.192617627-05:00 
+ 	Packet number:                 31 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:11:11:AD:CC:9C, Dest: 01:00:5E:7F:FF:FA       
+ 	Source:                        00:11:11:AD:CC:9C 
+ 	Destination:                   01:00:5E:7F:FF:FA 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.212, Dest: 239.255.255.250         
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0xB696 (46742) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x7337 (PASS) 
+ 	Source address:                10.60.0.212 
+ 	Destination address:           239.255.255.250 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.250 
+ 	Header checksum:               0xFA04 (PASS) 
+                                 
+                                 
+                                 
+ Packet 32 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:40:28.192617627-05:00 
+ 	Packet number:                 32 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:13:20:62:DC:5D, Dest: 01:00:5E:00:00:09       
+ 	Source:                        00:13:20:62:DC:5D 
+ 	Destination:                   01:00:5E:00:00:09 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.142, Dest: 224.0.0.9               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x5A54 (23124) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xDFB0 (PASS) 
+ 	Source address:                10.60.0.142 
+ 	Destination address:           224.0.0.9 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.9 
+ 	Header checksum:               0x09F6 (PASS) 
+                                 
+                                 
+                                 
+ Packet 33 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:40:28.192617627-05:00 
+ 	Packet number:                 33 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:40:39:9A, Dest: 01:00:5E:00:01:18       
+ 	Source:                        00:03:47:40:39:9A 
+ 	Destination:                   01:00:5E:00:01:18 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.3.36, Dest: 224.0.1.24               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x9852 (38994) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x9E0D (PASS) 
+ 	Source address:                10.60.3.36 
+ 	Destination address:           224.0.1.24 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.24 
+ 	Header checksum:               0x08E7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 34 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:40:28.192617627-05:00 
+ 	Packet number:                 34 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:02:89:D6       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:02:89:D6 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.2.137.214           
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xFA1D (64029) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x4A31 (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.2.137.214 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.2.137.214 
+ 	Header checksum:               0x8026 (PASS) 
+                                 
+                                 
+                                 
+ Packet 35 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:40:28.192617627-05:00 
+ 	Packet number:                 35 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:01:28       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:01:28 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.1.40              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xFA1E (64030) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD2E0 (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.1.40 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.40 
+ 	Header checksum:               0x08D7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 36 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:40:29.192617628-05:00 
+ 	Packet number:                 36 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:15:58:DC:D9:F6, Dest: 01:00:5E:00:00:FB       
+ 	Source:                        00:15:58:DC:D9:F6 
+ 	Destination:                   01:00:5E:00:00:FB 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.5.103, Dest: 224.0.0.251             
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x7765 (30565) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xBCD4 (PASS) 
+ 	Source address:                10.60.5.103 
+ 	Destination address:           224.0.0.251 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.251 
+ 	Header checksum:               0x0904 (PASS) 
+                                 
+                                 
+                                 
+ Packet 37 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:40:29.192617628-05:00 
+ 	Packet number:                 37 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:15:58:DC:70:68, Dest: 01:00:5E:7F:FF:FD       
+ 	Source:                        00:15:58:DC:70:68 
+ 	Destination:                   01:00:5E:7F:FF:FD 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.5.102, Dest: 239.255.255.253         
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x4F04 (20228) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD634 (PASS) 
+ 	Source address:                10.60.5.102 
+ 	Destination address:           239.255.255.253 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.253 
+ 	Header checksum:               0xFA01 (PASS) 
+                                 
+                                 
+                                 
+ Packet 38 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:40:30.192617629-05:00 
+ 	Packet number:                 38 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:D0:B7:9C:98:1A, Dest: 01:00:5E:00:00:02       
+ 	Source:                        00:D0:B7:9C:98:1A 
+ 	Destination:                   01:00:5E:00:00:02 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.1, Dest: 224.0.0.2                 
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x2DDF (11743) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0CBA (PASS) 
+ 	Source address:                10.60.0.1 
+ 	Destination address:           224.0.0.2 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.2 
+ 	Header checksum:               0x09FD (PASS) 
+                                 
+                                 
+                                 
+ Packet 39 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:40:30.192617629-05:00 
+ 	Packet number:                 39 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:14:38:E6:47:C6, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:14:38:E6:47:C6 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.20, Dest: 224.0.1.60               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x2070 (8304) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x18DB (PASS) 
+ 	Source address:                10.60.0.20 
+ 	Destination address:           224.0.1.60 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x08C3 (FAIL) 
+                                 
+                                 
+                                 
+ Packet 40 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:40:31.192617630-05:00 
+ 	Packet number:                 40 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:30:C1:BF:57:55, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:30:C1:BF:57:55 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.132, Dest: 224.0.1.60              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x6A7A (27258) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x636A (PASS) 
+ 	Source address:                10.60.0.132 
+ 	Destination address:           224.0.1.60 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x0CC3 (FAIL) 
+                                 
+                                 
+                                 
+ Packet 41 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:40:32.192617631-05:00 
+ 	Packet number:                 41 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:1B:C1:A8, Dest: 01:00:5E:7F:FF:FE       
+ 	Source:                        00:03:47:1B:C1:A8 
+ 	Destination:                   01:00:5E:7F:FF:FE 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.12, Dest: 239.255.255.254          
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x1E0D (7693) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0C85 (PASS) 
+ 	Source address:                10.60.0.12 
+ 	Destination address:           239.255.255.254 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.254 
+ 	Header checksum:               0xFA00 (PASS) 
+                                 
+                                 
+                                 
+ Packet 42 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:40:34.192617633-05:00 
+ 	Packet number:                 42 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:16:D4:F2:B6:C3, Dest: 01:00:5E:00:00:FC       
+ 	Source:                        00:16:D4:F2:B6:C3 
+ 	Destination:                   01:00:5E:00:00:FC 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.4.5, Dest: 224.0.0.252               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x27F0 (10224) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0DAB (PASS) 
+ 	Source address:                10.60.4.5 
+ 	Destination address:           224.0.0.252 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.252 
+ 	Header checksum:               0x0903 (PASS) 
+                                 
+                                 
+                                 
+ Packet 43 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:40:48.192617647-05:00 
+ 	Packet number:                 43 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D5B (19803) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC097 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 44 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:41:18.192617677-05:00 
+ 	Packet number:                 44 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D5C (19804) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC096 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 45 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:41:27.192617686-05:00 
+ 	Packet number:                 45 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:00:01       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:00:01 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.0.1               
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xFB56 (64342) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD2CF (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.0.1 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	General query                   
+ 	Max response time:             10 sec 
+ 	Header checksum:               0xEE9B (PASS) 
+                                 
+                                 
+                                 
+ Packet 46 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:41:28.192617687-05:00 
+ 	Packet number:                 46 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:14:38:E6:47:C6, Dest: 01:00:5E:00:00:FB       
+ 	Source:                        00:14:38:E6:47:C6 
+ 	Destination:                   01:00:5E:00:00:FB 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.20, Dest: 224.0.0.251              
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x2072 (8306) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x191A (PASS) 
+ 	Source address:                10.60.0.20 
+ 	Destination address:           224.0.0.251 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.251 
+ 	Header checksum:               0x0904 (FAIL) 
+                                 
+                                 
+                                 
+ Packet 47 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:41:28.192617687-05:00 
+ 	Packet number:                 47 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:11:11:AD:CC:9C, Dest: 01:00:5E:7F:FF:FA       
+ 	Source:                        00:11:11:AD:CC:9C 
+ 	Destination:                   01:00:5E:7F:FF:FA 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.212, Dest: 239.255.255.250         
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0xB6A4 (46756) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x7329 (PASS) 
+ 	Source address:                10.60.0.212 
+ 	Destination address:           239.255.255.250 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.250 
+ 	Header checksum:               0xFA04 (PASS) 
+                                 
+                                 
+                                 
+ Packet 48 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:41:29.192617688-05:00 
+ 	Packet number:                 48 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:11:11:19:75:40, Dest: 01:00:5E:00:00:09       
+ 	Source:                        00:11:11:19:75:40 
+ 	Destination:                   01:00:5E:00:00:09 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.50.58, Dest: 224.0.0.9               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x0C1F (3103) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xFC39 (PASS) 
+ 	Source address:                10.60.50.58 
+ 	Destination address:           224.0.0.9 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.9 
+ 	Header checksum:               0x09F6 (PASS) 
+                                 
+                                 
+                                 
+ Packet 49 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:41:30.192617689-05:00 
+ 	Packet number:                 49 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:02:89:D6       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:02:89:D6 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.2.137.214          
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xFB6E (64366) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x88C4 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.2.137.214 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.2.137.214 
+ 	Header checksum:               0x8026 (PASS) 
+                                 
+                                 
+                                 
+ Packet 50 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:41:31.192617690-05:00 
+ 	Packet number:                 50 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:15:58:DC:70:68, Dest: 01:00:5E:7F:FF:FD       
+ 	Source:                        00:15:58:DC:70:68 
+ 	Destination:                   01:00:5E:7F:FF:FD 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.5.102, Dest: 239.255.255.253         
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x4F35 (20277) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD603 (PASS) 
+ 	Source address:                10.60.5.102 
+ 	Destination address:           239.255.255.253 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.253 
+ 	Header checksum:               0xFA01 (PASS) 
+                                 
+                                 
+                                 
+ Packet 51 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:41:31.192617690-05:00 
+ 	Packet number:                 51 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:01:28       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:01:28 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.1.40              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xFB75 (64373) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD189 (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.1.40 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.40 
+ 	Header checksum:               0x08D7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 52 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:41:34.192617693-05:00 
+ 	Packet number:                 52 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:40:39:9A, Dest: 01:00:5E:00:01:18       
+ 	Source:                        00:03:47:40:39:9A 
+ 	Destination:                   01:00:5E:00:01:18 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.3.36, Dest: 224.0.1.24               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x9E29 (40489) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x9836 (PASS) 
+ 	Source address:                10.60.3.36 
+ 	Destination address:           224.0.1.24 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.24 
+ 	Header checksum:               0x08E7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 53 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:41:34.192617693-05:00 
+ 	Packet number:                 53 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:1B:C1:A8, Dest: 01:00:5E:7F:FF:FE       
+ 	Source:                        00:03:47:1B:C1:A8 
+ 	Destination:                   01:00:5E:7F:FF:FE 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.12, Dest: 239.255.255.254          
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x1E14 (7700) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0C7E (PASS) 
+ 	Source address:                10.60.0.12 
+ 	Destination address:           239.255.255.254 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.254 
+ 	Header checksum:               0xFA00 (PASS) 
+                                 
+                                 
+                                 
+ Packet 54 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:41:34.192617693-05:00 
+ 	Packet number:                 54 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:30:C1:BF:57:55, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:30:C1:BF:57:55 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.132, Dest: 224.0.1.60              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x6A7B (27259) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x6369 (PASS) 
+ 	Source address:                10.60.0.132 
+ 	Destination address:           224.0.1.60 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x0CC3 (PASS) 
+                                 
+                                 
+                                 
+ Packet 55 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:41:36.192617695-05:00 
+ 	Packet number:                 55 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:16:D4:F2:B6:C3, Dest: 01:00:5E:00:00:FC       
+ 	Source:                        00:16:D4:F2:B6:C3 
+ 	Destination:                   01:00:5E:00:00:FC 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.4.5, Dest: 224.0.0.252               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x281A (10266) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0D81 (PASS) 
+ 	Source address:                10.60.4.5 
+ 	Destination address:           224.0.0.252 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.252 
+ 	Header checksum:               0x0903 (PASS) 
+                                 
+                                 
+                                 
+ Packet 56 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:41:36.192617695-05:00 
+ 	Packet number:                 56 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:14:5E:94:58:7B, Dest: 01:00:5E:00:00:02       
+ 	Source:                        00:14:5E:94:58:7B 
+ 	Destination:                   01:00:5E:00:00:02 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.5, Dest: 224.0.0.2                 
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x7D20 (32032) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xBD74 (PASS) 
+ 	Source address:                10.60.0.5 
+ 	Destination address:           224.0.0.2 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.2 
+ 	Header checksum:               0x09FD (PASS) 
+                                 
+                                 
+                                 
+ Packet 57 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:41:49.192617708-05:00 
+ 	Packet number:                 57 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D5D (19805) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC095 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 58 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:42:19.192617738-05:00 
+ 	Packet number:                 58 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D5E (19806) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC094 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 59 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:42:28.192617747-05:00 
+ 	Packet number:                 59 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:00:01       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:00:01 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.0.1               
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xFDF0 (65008) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD035 (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.0.1 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	General query                   
+ 	Max response time:             10 sec 
+ 	Header checksum:               0xEE9B (PASS) 
+                                 
+                                 
+                                 
+ Packet 60 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:42:28.192617747-05:00 
+ 	Packet number:                 60 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:16:D4:F2:B6:C3, Dest: 01:00:5E:7F:FF:FA       
+ 	Source:                        00:16:D4:F2:B6:C3 
+ 	Destination:                   01:00:5E:7F:FF:FA 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.4.5, Dest: 239.255.255.250           
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x2844 (10308) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xFE58 (PASS) 
+ 	Source address:                10.60.4.5 
+ 	Destination address:           239.255.255.250 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.250 
+ 	Header checksum:               0xFA04 (PASS) 
+                                 
+                                 
+                                 
+ Packet 61 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:42:28.192617747-05:00 
+ 	Packet number:                 61 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:40:39:9A, Dest: 01:00:5E:00:01:18       
+ 	Source:                        00:03:47:40:39:9A 
+ 	Destination:                   01:00:5E:00:01:18 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.3.36, Dest: 224.0.1.24               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0xA2A7 (41639) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x93B8 (PASS) 
+ 	Source address:                10.60.3.36 
+ 	Destination address:           224.0.1.24 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.24 
+ 	Header checksum:               0x08E7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 62 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:42:29.192617748-05:00 
+ 	Packet number:                 62 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:13:20:62:DC:5D, Dest: 01:00:5E:00:00:09       
+ 	Source:                        00:13:20:62:DC:5D 
+ 	Destination:                   01:00:5E:00:00:09 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.142, Dest: 224.0.0.9               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x5B0A (23306) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xDEFA (PASS) 
+ 	Source address:                10.60.0.142 
+ 	Destination address:           224.0.0.9 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.9 
+ 	Header checksum:               0x09F6 (PASS) 
+                                 
+                                 
+                                 
+ Packet 63 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:42:29.192617748-05:00 
+ 	Packet number:                 63 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:12:79:7E:0E:64, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:12:79:7E:0E:64 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.99, Dest: 224.0.1.60               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x6127 (24871) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD7D4 (PASS) 
+ 	Source address:                10.60.0.99 
+ 	Destination address:           224.0.1.60 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x08C3 (PASS) 
+                                 
+                                 
+                                 
+ Packet 64 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:42:30.192617749-05:00 
+ 	Packet number:                 64 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:12:79:7E:0E:64, Dest: 01:00:5E:00:00:FB       
+ 	Source:                        00:12:79:7E:0E:64 
+ 	Destination:                   01:00:5E:00:00:FB 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.99, Dest: 224.0.0.251              
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x6128 (24872) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD814 (PASS) 
+ 	Source address:                10.60.0.99 
+ 	Destination address:           224.0.0.251 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.251 
+ 	Header checksum:               0x0904 (PASS) 
+                                 
+                                 
+                                 
+ Packet 65 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:42:30.192617749-05:00 
+ 	Packet number:                 65 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:15:58:DC:70:68, Dest: 01:00:5E:7F:FF:FD       
+ 	Source:                        00:15:58:DC:70:68 
+ 	Destination:                   01:00:5E:7F:FF:FD 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.5.102, Dest: 239.255.255.253         
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x4F66 (20326) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD5D2 (PASS) 
+ 	Source address:                10.60.5.102 
+ 	Destination address:           239.255.255.253 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.253 
+ 	Header checksum:               0xFA01 (PASS) 
+                                 
+                                 
+                                 
+ Packet 66 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:42:30.192617749-05:00 
+ 	Packet number:                 66 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:D0:B7:9C:98:1A, Dest: 01:00:5E:00:00:02       
+ 	Source:                        00:D0:B7:9C:98:1A 
+ 	Destination:                   01:00:5E:00:00:02 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.1, Dest: 224.0.0.2                 
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x2F3A (12090) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0B5F (PASS) 
+ 	Source address:                10.60.0.1 
+ 	Destination address:           224.0.0.2 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.2 
+ 	Header checksum:               0x09FD (PASS) 
+                                 
+                                 
+                                 
+ Packet 67 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:42:30.192617749-05:00 
+ 	Packet number:                 67 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:1B:C1:A8, Dest: 01:00:5E:7F:FF:FE       
+ 	Source:                        00:03:47:1B:C1:A8 
+ 	Destination:                   01:00:5E:7F:FF:FE 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.12, Dest: 239.255.255.254          
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x1E2A (7722) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0C68 (PASS) 
+ 	Source address:                10.60.0.12 
+ 	Destination address:           239.255.255.254 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.254 
+ 	Header checksum:               0xFA00 (PASS) 
+                                 
+                                 
+                                 
+ Packet 68 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:42:31.192617750-05:00 
+ 	Packet number:                 68 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:02:89:D6       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:02:89:D6 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.2.137.214          
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xFDFB (65019) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x8637 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.2.137.214 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.2.137.214 
+ 	Header checksum:               0x8026 (PASS) 
+                                 
+                                 
+                                 
+ Packet 69 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:42:31.192617750-05:00 
+ 	Packet number:                 69 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:16:D4:F2:B6:C3, Dest: 01:00:5E:00:00:FC       
+ 	Source:                        00:16:D4:F2:B6:C3 
+ 	Destination:                   01:00:5E:00:00:FC 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.4.5, Dest: 224.0.0.252               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x2845 (10309) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0D56 (PASS) 
+ 	Source address:                10.60.4.5 
+ 	Destination address:           224.0.0.252 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.252 
+ 	Header checksum:               0x0903 (PASS) 
+                                 
+                                 
+                                 
+ Packet 70 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:42:34.192617753-05:00 
+ 	Packet number:                 70 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:01:28       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:01:28 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.1.40              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xFE09 (65033) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xCEF5 (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.1.40 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.40 
+ 	Header checksum:               0x08D7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 71 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:42:38.192617757-05:00 
+ 	Packet number:                 71 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:30:C1:BF:57:55, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:30:C1:BF:57:55 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.132, Dest: 224.0.1.60              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x6A7C (27260) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x6368 (PASS) 
+ 	Source address:                10.60.0.132 
+ 	Destination address:           224.0.1.60 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x0CC3 (FAIL) 
+                                 
+                                 
+                                 
+ Packet 72 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:42:49.192617768-05:00 
+ 	Packet number:                 72 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D5F (19807) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC093 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 73 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:43:19.192617798-05:00 
+ 	Packet number:                 73 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D60 (19808) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC092 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 74 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:43:28.192617807-05:00 
+ 	Packet number:                 74 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:00:01       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:00:01 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.0.1               
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xFF10 (65296) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xCF15 (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.0.1 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	General query                   
+ 	Max response time:             10 sec 
+ 	Header checksum:               0xEE9B (PASS) 
+                                 
+                                 
+                                 
+ Packet 75 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:43:28.192617807-05:00 
+ 	Packet number:                 75 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:16:D4:F2:B6:C3, Dest: 01:00:5E:00:00:FC       
+ 	Source:                        00:16:D4:F2:B6:C3 
+ 	Destination:                   01:00:5E:00:00:FC 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.4.5, Dest: 224.0.0.252               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x2873 (10355) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0D28 (PASS) 
+ 	Source address:                10.60.4.5 
+ 	Destination address:           224.0.0.252 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.252 
+ 	Header checksum:               0x0903 (PASS) 
+                                 
+                                 
+                                 
+ Packet 76 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:43:28.192617807-05:00 
+ 	Packet number:                 76 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:12:79:7E:0E:64, Dest: 01:00:5E:00:00:FB       
+ 	Source:                        00:12:79:7E:0E:64 
+ 	Destination:                   01:00:5E:00:00:FB 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.99, Dest: 224.0.0.251              
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x6129 (24873) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD813 (PASS) 
+ 	Source address:                10.60.0.99 
+ 	Destination address:           224.0.0.251 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.251 
+ 	Header checksum:               0x0904 (PASS) 
+                                 
+                                 
+                                 
+ Packet 77 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:43:29.192617808-05:00 
+ 	Packet number:                 77 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:16:D3:30:77:97, Dest: 01:00:5E:7F:FF:FA       
+ 	Source:                        00:16:D3:30:77:97 
+ 	Destination:                   01:00:5E:7F:FF:FA 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.50.72, Dest: 239.255.255.250         
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x1334 (4916) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xE525 (PASS) 
+ 	Source address:                10.60.50.72 
+ 	Destination address:           239.255.255.250 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.250 
+ 	Header checksum:               0xFA04 (PASS) 
+                                 
+                                 
+                                 
+ Packet 78 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:43:30.192617809-05:00 
+ 	Packet number:                 78 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:15:58:DC:70:68, Dest: 01:00:5E:7F:FF:FD       
+ 	Source:                        00:15:58:DC:70:68 
+ 	Destination:                   01:00:5E:7F:FF:FD 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.5.102, Dest: 239.255.255.253         
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x4F98 (20376) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD5A0 (PASS) 
+ 	Source address:                10.60.5.102 
+ 	Destination address:           239.255.255.253 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.253 
+ 	Header checksum:               0xFA01 (PASS) 
+                                 
+                                 
+                                 
+ Packet 79 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:43:30.192617809-05:00 
+ 	Packet number:                 79 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:13:20:61:83:A3, Dest: 01:00:5E:00:00:09       
+ 	Source:                        00:13:20:61:83:A3 
+ 	Destination:                   01:00:5E:00:00:09 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.254, Dest: 224.0.0.9               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x9A2D (39469) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x9F67 (PASS) 
+ 	Source address:                10.60.0.254 
+ 	Destination address:           224.0.0.9 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.9 
+ 	Header checksum:               0x09F6 (PASS) 
+                                 
+                                 
+                                 
+ Packet 80 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:43:30.192617809-05:00 
+ 	Packet number:                 80 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:30:C1:BF:57:55, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:30:C1:BF:57:55 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.132, Dest: 224.0.1.60              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x6A7D (27261) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x6367 (PASS) 
+ 	Source address:                10.60.0.132 
+ 	Destination address:           224.0.1.60 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x0CC3 (FAIL) 
+                                 
+                                 
+                                 
+ Packet 81 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:43:31.192617810-05:00 
+ 	Packet number:                 81 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:40:39:9A, Dest: 01:00:5E:00:01:18       
+ 	Source:                        00:03:47:40:39:9A 
+ 	Destination:                   01:00:5E:00:01:18 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.3.36, Dest: 224.0.1.24               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0xA7FF (43007) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x8E60 (PASS) 
+ 	Source address:                10.60.3.36 
+ 	Destination address:           224.0.1.24 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.24 
+ 	Header checksum:               0x08E7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 82 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:43:32.192617811-05:00 
+ 	Packet number:                 82 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:02:89:D6       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:02:89:D6 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.2.137.214          
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xFF1A (65306) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x8518 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.2.137.214 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.2.137.214 
+ 	Header checksum:               0x8026 (PASS) 
+                                 
+                                 
+                                 
+ Packet 83 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:43:32.192617811-05:00 
+ 	Packet number:                 83 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:01:28       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:01:28 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.1.40              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0xFF1B (65307) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xCDE3 (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.1.40 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.40 
+ 	Header checksum:               0x08D7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 84 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:43:35.192617814-05:00 
+ 	Packet number:                 84 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:14:5E:94:58:7B, Dest: 01:00:5E:00:00:02       
+ 	Source:                        00:14:5E:94:58:7B 
+ 	Destination:                   01:00:5E:00:00:02 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.5, Dest: 224.0.0.2                 
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x7E30 (32304) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xBC64 (PASS) 
+ 	Source address:                10.60.0.5 
+ 	Destination address:           224.0.0.2 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.2 
+ 	Header checksum:               0x09FD (PASS) 
+                                 
+                                 
+                                 
+ Packet 85 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:43:35.192617814-05:00 
+ 	Packet number:                 85 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:1B:C1:A8, Dest: 01:00:5E:7F:FF:FE       
+ 	Source:                        00:03:47:1B:C1:A8 
+ 	Destination:                   01:00:5E:7F:FF:FE 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.12, Dest: 239.255.255.254          
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x1E3E (7742) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0C54 (PASS) 
+ 	Source address:                10.60.0.12 
+ 	Destination address:           239.255.255.254 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.254 
+ 	Header checksum:               0xFA00 (PASS) 
+                                 
+                                 
+                                 
+ Packet 86 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:43:49.192617828-05:00 
+ 	Packet number:                 86 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D61 (19809) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC091 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 87 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:44:18.192617857-05:00 
+ 	Packet number:                 87 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D62 (19810) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC090 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 88 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:44:28.192617867-05:00 
+ 	Packet number:                 88 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:00:01       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:00:01 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.0.1               
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x0019 (25) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xCE0D (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.0.1 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	General query                   
+ 	Max response time:             10 sec 
+ 	Header checksum:               0xEE9B (PASS) 
+                                 
+                                 
+                                 
+ Packet 89 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:44:29.192617868-05:00 
+ 	Packet number:                 89 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:40:39:9A, Dest: 01:00:5E:00:01:18       
+ 	Source:                        00:03:47:40:39:9A 
+ 	Destination:                   01:00:5E:00:01:18 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.3.36, Dest: 224.0.1.24               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0xADF7 (44535) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x8868 (PASS) 
+ 	Source address:                10.60.3.36 
+ 	Destination address:           224.0.1.24 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.24 
+ 	Header checksum:               0x08E7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 90 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:44:29.192617868-05:00 
+ 	Packet number:                 90 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:13:20:62:DC:5D, Dest: 01:00:5E:00:00:09       
+ 	Source:                        00:13:20:62:DC:5D 
+ 	Destination:                   01:00:5E:00:00:09 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.142, Dest: 224.0.0.9               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x5BBA (23482) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xDE4A (PASS) 
+ 	Source address:                10.60.0.142 
+ 	Destination address:           224.0.0.9 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.9 
+ 	Header checksum:               0x09F6 (PASS) 
+                                 
+                                 
+                                 
+ Packet 91 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:44:29.192617868-05:00 
+ 	Packet number:                 91 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:02:89:D6       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:02:89:D6 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.2.137.214          
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x001A (26) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x8419 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.2.137.214 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.2.137.214 
+ 	Header checksum:               0x8026 (PASS) 
+                                 
+                                 
+                                 
+ Packet 92 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:44:30.192617869-05:00 
+ 	Packet number:                 92 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:15:58:DC:D9:F6, Dest: 01:00:5E:00:00:FB       
+ 	Source:                        00:15:58:DC:D9:F6 
+ 	Destination:                   01:00:5E:00:00:FB 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.5.103, Dest: 224.0.0.251             
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x78D7 (30935) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xBB62 (PASS) 
+ 	Source address:                10.60.5.103 
+ 	Destination address:           224.0.0.251 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.251 
+ 	Header checksum:               0x0904 (PASS) 
+                                 
+                                 
+                                 
+ Packet 93 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:44:31.192617870-05:00 
+ 	Packet number:                 93 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:D0:B7:9C:98:1A, Dest: 01:00:5E:00:00:02       
+ 	Source:                        00:D0:B7:9C:98:1A 
+ 	Destination:                   01:00:5E:00:00:02 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.1, Dest: 224.0.0.2                 
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x305D (12381) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0A3C (PASS) 
+ 	Source address:                10.60.0.1 
+ 	Destination address:           224.0.0.2 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.2 
+ 	Header checksum:               0x09FD (PASS) 
+                                 
+                                 
+                                 
+ Packet 94 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:44:31.192617870-05:00 
+ 	Packet number:                 94 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:16:D3:30:77:97, Dest: 01:00:5E:7F:FF:FA       
+ 	Source:                        00:16:D3:30:77:97 
+ 	Destination:                   01:00:5E:7F:FF:FA 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.50.72, Dest: 239.255.255.250         
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x13F1 (5105) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xE468 (PASS) 
+ 	Source address:                10.60.50.72 
+ 	Destination address:           239.255.255.250 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.250 
+ 	Header checksum:               0xFA04 (PASS) 
+                                 
+                                 
+                                 
+ Packet 95 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:44:32.192617871-05:00 
+ 	Packet number:                 95 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:15:58:DC:D9:F6, Dest: 01:00:5E:7F:FF:FD       
+ 	Source:                        00:15:58:DC:D9:F6 
+ 	Destination:                   01:00:5E:7F:FF:FD 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.5.103, Dest: 239.255.255.253         
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x78D8 (30936) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xAC5F (PASS) 
+ 	Source address:                10.60.5.103 
+ 	Destination address:           239.255.255.253 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.253 
+ 	Header checksum:               0xFA01 (PASS) 
+                                 
+                                 
+                                 
+ Packet 96 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:44:33.192617872-05:00 
+ 	Packet number:                 96 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:14:38:E6:47:C6, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:14:38:E6:47:C6 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.20, Dest: 224.0.1.60               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x2079 (8313) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x18D2 (PASS) 
+ 	Source address:                10.60.0.20 
+ 	Destination address:           224.0.1.60 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x08C3 (FAIL) 
+                                 
+                                 
+                                 
+ Packet 97 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:44:33.192617872-05:00 
+ 	Packet number:                 97 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:30:C1:BF:57:55, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:30:C1:BF:57:55 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.132, Dest: 224.0.1.60              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x6A7E (27262) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x6366 (PASS) 
+ 	Source address:                10.60.0.132 
+ 	Destination address:           224.0.1.60 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x0CC3 (PASS) 
+                                 
+                                 
+                                 
+ Packet 98 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:44:35.192617874-05:00 
+ 	Packet number:                 98 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:16:D4:F2:B6:C3, Dest: 01:00:5E:00:00:FC       
+ 	Source:                        00:16:D4:F2:B6:C3 
+ 	Destination:                   01:00:5E:00:00:FC 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.4.5, Dest: 224.0.0.252               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x289E (10398) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0CFD (PASS) 
+ 	Source address:                10.60.4.5 
+ 	Destination address:           224.0.0.252 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.252 
+ 	Header checksum:               0x0903 (PASS) 
+                                 
+                                 
+                                 
+ Packet 99 (60 bytes)                                               
+ 	Timestamp:                     2007-10-17T05:44:35.192617874-05:00 
+ 	Packet number:                 99 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:1B:C1:A8, Dest: 01:00:5E:7F:FF:FE       
+ 	Source:                        00:03:47:1B:C1:A8 
+ 	Destination:                   01:00:5E:7F:FF:FE 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.12, Dest: 239.255.255.254          
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x1F1C (7964) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0B76 (PASS) 
+ 	Source address:                10.60.0.12 
+ 	Destination address:           239.255.255.254 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.254 
+ 	Header checksum:               0xFA00 (PASS) 
+                                 
+                                 
+                                 
+ Packet 100 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:44:36.192617875-05:00 
+ 	Packet number:                 100 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:01:28       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:01:28 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.1.40              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x0044 (68) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xCCBB (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.1.40 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.40 
+ 	Header checksum:               0x08D7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 101 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:44:48.192617887-05:00 
+ 	Packet number:                 101 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D63 (19811) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC08F (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 102 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:45:19.192617918-05:00 
+ 	Packet number:                 102 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D64 (19812) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC08E (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 103 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:45:29.192617928-05:00 
+ 	Packet number:                 103 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:00:01       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:00:01 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.0.1               
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x0153 (339) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xCCD3 (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.0.1 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	General query                   
+ 	Max response time:             10 sec 
+ 	Header checksum:               0xEE9B (PASS) 
+                                 
+                                 
+                                 
+ Packet 104 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:45:29.192617928-05:00 
+ 	Packet number:                 104 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:13:20:62:DC:5D, Dest: 01:00:5E:00:00:09       
+ 	Source:                        00:13:20:62:DC:5D 
+ 	Destination:                   01:00:5E:00:00:09 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.142, Dest: 224.0.0.9               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x5C18 (23576) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xDDEC (PASS) 
+ 	Source address:                10.60.0.142 
+ 	Destination address:           224.0.0.9 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.9 
+ 	Header checksum:               0x09F6 (PASS) 
+                                 
+                                 
+                                 
+ Packet 105 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:45:29.192617928-05:00 
+ 	Packet number:                 105 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:D0:B7:9C:98:1A, Dest: 01:00:5E:00:00:02       
+ 	Source:                        00:D0:B7:9C:98:1A 
+ 	Destination:                   01:00:5E:00:00:02 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.1, Dest: 224.0.0.2                 
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x30E3 (12515) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x09B6 (PASS) 
+ 	Source address:                10.60.0.1 
+ 	Destination address:           224.0.0.2 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.2 
+ 	Header checksum:               0x09FD (PASS) 
+                                 
+                                 
+                                 
+ Packet 106 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:45:29.192617928-05:00 
+ 	Packet number:                 106 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:D0:09:86:C1:D3, Dest: 01:00:5E:7F:FF:FA       
+ 	Source:                        00:D0:09:86:C1:D3 
+ 	Destination:                   01:00:5E:7F:FF:FA 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.4.20, Dest: 239.255.255.250          
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x7F29 (32553) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xA764 (PASS) 
+ 	Source address:                10.60.4.20 
+ 	Destination address:           239.255.255.250 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.250 
+ 	Header checksum:               0xFA04 (PASS) 
+                                 
+                                 
+                                 
+ Packet 107 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:45:30.192617929-05:00 
+ 	Packet number:                 107 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:12:79:7E:0E:64, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:12:79:7E:0E:64 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.99, Dest: 224.0.1.60               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x6139 (24889) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD7C2 (PASS) 
+ 	Source address:                10.60.0.99 
+ 	Destination address:           224.0.1.60 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x08C3 (PASS) 
+                                 
+                                 
+                                 
+ Packet 108 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:45:31.192617930-05:00 
+ 	Packet number:                 108 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:01:28       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:01:28 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.1.40              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x0159 (345) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xCBA6 (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.1.40 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.40 
+ 	Header checksum:               0x08D7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 109 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:45:32.192617931-05:00 
+ 	Packet number:                 109 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:02:89:D6       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:02:89:D6 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.2.137.214          
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x015A (346) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x82D9 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.2.137.214 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.2.137.214 
+ 	Header checksum:               0x8026 (PASS) 
+                                 
+                                 
+                                 
+ Packet 110 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:45:32.192617931-05:00 
+ 	Packet number:                 110 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:15:58:DC:D9:F6, Dest: 01:00:5E:7F:FF:FD       
+ 	Source:                        00:15:58:DC:D9:F6 
+ 	Destination:                   01:00:5E:7F:FF:FD 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.5.103, Dest: 239.255.255.253         
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x7961 (31073) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xABD6 (PASS) 
+ 	Source address:                10.60.5.103 
+ 	Destination address:           239.255.255.253 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.253 
+ 	Header checksum:               0xFA01 (PASS) 
+                                 
+                                 
+                                 
+ Packet 111 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:45:33.192617932-05:00 
+ 	Packet number:                 111 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:1B:C1:A8, Dest: 01:00:5E:7F:FF:FE       
+ 	Source:                        00:03:47:1B:C1:A8 
+ 	Destination:                   01:00:5E:7F:FF:FE 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.12, Dest: 239.255.255.254          
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x1F43 (8003) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0B4F (PASS) 
+ 	Source address:                10.60.0.12 
+ 	Destination address:           239.255.255.254 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.254 
+ 	Header checksum:               0xFA00 (PASS) 
+                                 
+                                 
+                                 
+ Packet 112 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:45:35.192617934-05:00 
+ 	Packet number:                 112 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:40:39:9A, Dest: 01:00:5E:00:01:18       
+ 	Source:                        00:03:47:40:39:9A 
+ 	Destination:                   01:00:5E:00:01:18 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.3.36, Dest: 224.0.1.24               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0xB4D3 (46291) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x818C (PASS) 
+ 	Source address:                10.60.3.36 
+ 	Destination address:           224.0.1.24 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.24 
+ 	Header checksum:               0x08E7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 113 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:45:36.192617935-05:00 
+ 	Packet number:                 113 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:12:79:7E:0E:64, Dest: 01:00:5E:00:00:FB       
+ 	Source:                        00:12:79:7E:0E:64 
+ 	Destination:                   01:00:5E:00:00:FB 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.99, Dest: 224.0.0.251              
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x613A (24890) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD802 (PASS) 
+ 	Source address:                10.60.0.99 
+ 	Destination address:           224.0.0.251 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.251 
+ 	Header checksum:               0x0904 (PASS) 
+                                 
+                                 
+                                 
+ Packet 114 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:45:36.192617935-05:00 
+ 	Packet number:                 114 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:16:D4:F2:B6:C3, Dest: 01:00:5E:00:00:FC       
+ 	Source:                        00:16:D4:F2:B6:C3 
+ 	Destination:                   01:00:5E:00:00:FC 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.4.5, Dest: 224.0.0.252               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x28C8 (10440) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0CD3 (PASS) 
+ 	Source address:                10.60.4.5 
+ 	Destination address:           224.0.0.252 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.252 
+ 	Header checksum:               0x0903 (PASS) 
+                                 
+                                 
+                                 
+ Packet 115 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:45:37.192617936-05:00 
+ 	Packet number:                 115 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:30:C1:BF:57:55, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:30:C1:BF:57:55 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.132, Dest: 224.0.1.60              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x6A7F (27263) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x6365 (PASS) 
+ 	Source address:                10.60.0.132 
+ 	Destination address:           224.0.1.60 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x0CC3 (FAIL) 
+                                 
+                                 
+                                 
+ Packet 116 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:45:49.192617948-05:00 
+ 	Packet number:                 116 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D65 (19813) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC08D (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 117 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:46:19.192617978-05:00 
+ 	Packet number:                 117 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D66 (19814) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC08C (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 118 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:46:29.192617988-05:00 
+ 	Packet number:                 118 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:00:01       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:00:01 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.0.1               
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x0256 (598) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xCBD0 (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.0.1 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	General query                   
+ 	Max response time:             10 sec 
+ 	Header checksum:               0xEE9B (PASS) 
+                                 
+                                 
+                                 
+ Packet 119 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:46:29.192617988-05:00 
+ 	Packet number:                 119 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:16:D4:F2:B6:C3, Dest: 01:00:5E:7F:FF:FA       
+ 	Source:                        00:16:D4:F2:B6:C3 
+ 	Destination:                   01:00:5E:7F:FF:FA 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.4.5, Dest: 239.255.255.250           
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x28F2 (10482) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xFDAA (PASS) 
+ 	Source address:                10.60.4.5 
+ 	Destination address:           239.255.255.250 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.250 
+ 	Header checksum:               0xFA04 (PASS) 
+                                 
+                                 
+                                 
+ Packet 120 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:46:29.192617988-05:00 
+ 	Packet number:                 120 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:16:D4:F2:B6:C3, Dest: 01:00:5E:00:00:FC       
+ 	Source:                        00:16:D4:F2:B6:C3 
+ 	Destination:                   01:00:5E:00:00:FC 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.4.5, Dest: 224.0.0.252               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x28F3 (10483) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0CA8 (PASS) 
+ 	Source address:                10.60.4.5 
+ 	Destination address:           224.0.0.252 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.252 
+ 	Header checksum:               0x0903 (PASS) 
+                                 
+                                 
+                                 
+ Packet 121 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:46:29.192617988-05:00 
+ 	Packet number:                 121 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:11:11:A0:2E:55, Dest: 01:00:5E:00:00:09       
+ 	Source:                        00:11:11:A0:2E:55 
+ 	Destination:                   01:00:5E:00:00:09 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.177, Dest: 224.0.0.9               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x2D30 (11568) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0CB2 (PASS) 
+ 	Source address:                10.60.0.177 
+ 	Destination address:           224.0.0.9 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.9 
+ 	Header checksum:               0x09F6 (PASS) 
+                                 
+                                 
+                                 
+ Packet 122 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:46:29.192617988-05:00 
+ 	Packet number:                 122 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:40:39:9A, Dest: 01:00:5E:00:01:18       
+ 	Source:                        00:03:47:40:39:9A 
+ 	Destination:                   01:00:5E:00:01:18 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.3.36, Dest: 224.0.1.24               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0xB9B0 (47536) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x7CAF (PASS) 
+ 	Source address:                10.60.3.36 
+ 	Destination address:           224.0.1.24 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.24 
+ 	Header checksum:               0x08E7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 123 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:46:30.192617989-05:00 
+ 	Packet number:                 123 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:02:89:D6       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:02:89:D6 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.2.137.214          
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x0257 (599) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x81DC (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.2.137.214 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.2.137.214 
+ 	Header checksum:               0x8026 (PASS) 
+                                 
+                                 
+                                 
+ Packet 124 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:46:30.192617989-05:00 
+ 	Packet number:                 124 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:02:89:D6       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:02:89:D6 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.2.137.214           
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x0258 (600) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x41F7 (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.2.137.214 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.2.137.214 
+ 	Header checksum:               0x8026 (PASS) 
+                                 
+                                 
+                                 
+ Packet 125 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:46:31.192617990-05:00 
+ 	Packet number:                 125 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:14:38:E6:47:C6, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:14:38:E6:47:C6 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.20, Dest: 224.0.1.60               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x207A (8314) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x18D1 (PASS) 
+ 	Source address:                10.60.0.20 
+ 	Destination address:           224.0.1.60 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x08C3 (FAIL) 
+                                 
+                                 
+                                 
+ Packet 126 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:46:32.192617991-05:00 
+ 	Packet number:                 126 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:14:5E:94:58:7B, Dest: 01:00:5E:00:00:02       
+ 	Source:                        00:14:5E:94:58:7B 
+ 	Destination:                   01:00:5E:00:00:02 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.5, Dest: 224.0.0.2                 
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x006C (108) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x3A29 (PASS) 
+ 	Source address:                10.60.0.5 
+ 	Destination address:           224.0.0.2 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.2 
+ 	Header checksum:               0x09FD (PASS) 
+                                 
+                                 
+                                 
+ Packet 127 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:46:33.192617992-05:00 
+ 	Packet number:                 127 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:12:79:7E:0E:64, Dest: 01:00:5E:00:00:FB       
+ 	Source:                        00:12:79:7E:0E:64 
+ 	Destination:                   01:00:5E:00:00:FB 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.99, Dest: 224.0.0.251              
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x613B (24891) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD801 (PASS) 
+ 	Source address:                10.60.0.99 
+ 	Destination address:           224.0.0.251 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.251 
+ 	Header checksum:               0x0904 (PASS) 
+                                 
+                                 
+                                 
+ Packet 128 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:46:34.192617993-05:00 
+ 	Packet number:                 128 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:1B:C1:A8, Dest: 01:00:5E:7F:FF:FE       
+ 	Source:                        00:03:47:1B:C1:A8 
+ 	Destination:                   01:00:5E:7F:FF:FE 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.12, Dest: 239.255.255.254          
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x1F44 (8004) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0B4E (PASS) 
+ 	Source address:                10.60.0.12 
+ 	Destination address:           239.255.255.254 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.254 
+ 	Header checksum:               0xFA00 (PASS) 
+                                 
+                                 
+                                 
+ Packet 129 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:46:35.192617994-05:00 
+ 	Packet number:                 129 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:15:58:DC:70:68, Dest: 01:00:5E:7F:FF:FD       
+ 	Source:                        00:15:58:DC:70:68 
+ 	Destination:                   01:00:5E:7F:FF:FD 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.5.102, Dest: 239.255.255.253         
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x504E (20558) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xD4EA (PASS) 
+ 	Source address:                10.60.5.102 
+ 	Destination address:           239.255.255.253 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.253 
+ 	Header checksum:               0xFA01 (PASS) 
+                                 
+                                 
+                                 
+ Packet 130 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:46:37.192617996-05:00 
+ 	Packet number:                 130 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:01:28       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:01:28 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.1.40              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x027F (639) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xCA80 (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.1.40 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.40 
+ 	Header checksum:               0x08D7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 131 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:46:39.192617998-05:00 
+ 	Packet number:                 131 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:30:C1:BF:57:55, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:30:C1:BF:57:55 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.132, Dest: 224.0.1.60              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x6A80 (27264) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x6364 (PASS) 
+ 	Source address:                10.60.0.132 
+ 	Destination address:           224.0.1.60 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x0CC3 (PASS) 
+                                 
+                                 
+                                 
+ Packet 132 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:46:49.192618008-05:00 
+ 	Packet number:                 132 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D67 (19815) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC08B (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 133 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:47:19.192618038-05:00 
+ 	Packet number:                 133 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D68 (19816) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC08A (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
+ Packet 134 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:47:29.192618048-05:00 
+ 	Packet number:                 134 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:00:01       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:00:01 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.0.1               
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x039D (925) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xCA89 (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.0.1 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	General query                   
+ 	Max response time:             10 sec 
+ 	Header checksum:               0xEE9B (PASS) 
+                                 
+                                 
+                                 
+ Packet 135 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:47:30.192618049-05:00 
+ 	Packet number:                 135 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:16:D4:F2:B6:C3, Dest: 01:00:5E:7F:FF:FA       
+ 	Source:                        00:16:D4:F2:B6:C3 
+ 	Destination:                   01:00:5E:7F:FF:FA 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.4.5, Dest: 239.255.255.250           
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x291D (10525) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xFD7F (PASS) 
+ 	Source address:                10.60.4.5 
+ 	Destination address:           239.255.255.250 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.250 
+ 	Header checksum:               0xFA04 (PASS) 
+                                 
+                                 
+                                 
+ Packet 136 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:47:30.192618049-05:00 
+ 	Packet number:                 136 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:16:D4:F2:B6:C3, Dest: 01:00:5E:00:00:FC       
+ 	Source:                        00:16:D4:F2:B6:C3 
+ 	Destination:                   01:00:5E:00:00:FC 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.4.5, Dest: 224.0.0.252               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x291E (10526) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0C7D (PASS) 
+ 	Source address:                10.60.4.5 
+ 	Destination address:           224.0.0.252 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.252 
+ 	Header checksum:               0x0903 (PASS) 
+                                 
+                                 
+                                 
+ Packet 137 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:47:30.192618049-05:00 
+ 	Packet number:                 137 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:40:39:9A, Dest: 01:00:5E:00:01:18       
+ 	Source:                        00:03:47:40:39:9A 
+ 	Destination:                   01:00:5E:00:01:18 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.3.36, Dest: 224.0.1.24               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0xBEE4 (48868) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x777B (PASS) 
+ 	Source address:                10.60.3.36 
+ 	Destination address:           224.0.1.24 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.24 
+ 	Header checksum:               0x08E7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 138 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:47:31.192618050-05:00 
+ 	Packet number:                 138 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:14:38:E6:47:C6, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:14:38:E6:47:C6 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.20, Dest: 224.0.1.60               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x207E (8318) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x18CD (PASS) 
+ 	Source address:                10.60.0.20 
+ 	Destination address:           224.0.1.60 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x08C3 (FAIL) 
+                                 
+                                 
+                                 
+ Packet 139 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:47:31.192618050-05:00 
+ 	Packet number:                 139 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:13:20:61:83:A3, Dest: 01:00:5E:00:00:09       
+ 	Source:                        00:13:20:61:83:A3 
+ 	Destination:                   01:00:5E:00:00:09 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.254, Dest: 224.0.0.9               
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x9A8F (39567) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x9F05 (PASS) 
+ 	Source address:                10.60.0.254 
+ 	Destination address:           224.0.0.9 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.9 
+ 	Header checksum:               0x09F6 (PASS) 
+                                 
+                                 
+                                 
+ Packet 140 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:47:32.192618051-05:00 
+ 	Packet number:                 140 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:30:C1:BF:57:55, Dest: 01:00:5E:00:01:3C       
+ 	Source:                        00:30:C1:BF:57:55 
+ 	Destination:                   01:00:5E:00:01:3C 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.132, Dest: 224.0.1.60              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x6A81 (27265) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x6363 (PASS) 
+ 	Source address:                10.60.0.132 
+ 	Destination address:           224.0.1.60 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.60 
+ 	Header checksum:               0x0CC3 (FAIL) 
+                                 
+                                 
+                                 
+ Packet 141 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:47:33.192618052-05:00 
+ 	Packet number:                 141 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:15:58:DC:D9:F6, Dest: 01:00:5E:7F:FF:FD       
+ 	Source:                        00:15:58:DC:D9:F6 
+ 	Destination:                   01:00:5E:7F:FF:FD 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.5.103, Dest: 239.255.255.253         
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x79F0 (31216) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xAB47 (PASS) 
+ 	Source address:                10.60.5.103 
+ 	Destination address:           239.255.255.253 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.253 
+ 	Header checksum:               0xFA01 (PASS) 
+                                 
+                                 
+                                 
+ Packet 142 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:47:33.192618052-05:00 
+ 	Packet number:                 142 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:02:89:D6       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:02:89:D6 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.2.137.214          
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x03AB (939) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x8088 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.2.137.214 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.2.137.214 
+ 	Header checksum:               0x8026 (PASS) 
+                                 
+                                 
+                                 
+ Packet 143 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:47:33.192618052-05:00 
+ 	Packet number:                 143 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:00, Dest: 01:00:5E:00:01:28       
+ 	Source:                        00:01:63:6F:C8:00 
+ 	Destination:                   01:00:5E:00:01:28 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.189, Dest: 224.0.1.40              
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x03AC (940) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC953 (PASS) 
+ 	Source address:                10.60.0.189 
+ 	Destination address:           224.0.1.40 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.1.40 
+ 	Header checksum:               0x08D7 (PASS) 
+                                 
+                                 
+                                 
+ Packet 144 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:47:35.192618054-05:00 
+ 	Packet number:                 144 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:15:58:DC:70:68, Dest: 01:00:5E:00:00:FB       
+ 	Source:                        00:15:58:DC:70:68 
+ 	Destination:                   01:00:5E:00:00:FB 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.5.102, Dest: 224.0.0.251             
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x507F (20607) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xE3BB (PASS) 
+ 	Source address:                10.60.5.102 
+ 	Destination address:           224.0.0.251 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.251 
+ 	Header checksum:               0x0904 (PASS) 
+                                 
+                                 
+                                 
+ Packet 145 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:47:38.192618057-05:00 
+ 	Packet number:                 145 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:14:5E:94:58:7B, Dest: 01:00:5E:00:00:02       
+ 	Source:                        00:14:5E:94:58:7B 
+ 	Destination:                   01:00:5E:00:00:02 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.5, Dest: 224.0.0.2                 
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x014C (332) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x3949 (PASS) 
+ 	Source address:                10.60.0.5 
+ 	Destination address:           224.0.0.2 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 224.0.0.2 
+ 	Header checksum:               0x09FD (PASS) 
+                                 
+                                 
+                                 
+ Packet 146 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:47:38.192618057-05:00 
+ 	Packet number:                 146 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:03:47:1B:C1:A8, Dest: 01:00:5E:7F:FF:FE       
+ 	Source:                        00:03:47:1B:C1:A8 
+ 	Destination:                   01:00:5E:7F:FF:FE 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.60.0.12, Dest: 239.255.255.254          
+ 	Version:                       4 
+ 	Header length:                 24 bytes 
+ 	Total length:                  32 bytes 
+ 	Identification:                0x1F4B (8011) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0x0B47 (PASS) 
+ 	Source address:                10.60.0.12 
+ 	Destination address:           239.255.255.254 
+ 	Options:                        
+ 		[148, 4, 0, 0]                  
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Membership report               
+ 	Group address:                 239.255.255.254 
+ 	Header checksum:               0xFA00 (PASS) 
+                                 
+                                 
+                                 
+ Packet 147 (60 bytes)                                              
+ 	Timestamp:                     2007-10-17T05:47:49.192618068-05:00 
+ 	Packet number:                 147 
+ 	Packet length:                 60 
+ Ethernet II, Src: 00:01:63:6F:C8:70, Dest: 01:00:5E:00:00:19       
+ 	Source:                        00:01:63:6F:C8:70 
+ 	Destination:                   01:00:5E:00:00:19 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 192.10.11.10, Dest: 224.0.0.25             
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  28 bytes 
+ 	Identification:                0x4D69 (19817) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  1 
+ 	Header checksum:               0xC089 (PASS) 
+ 	Source address:                192.10.11.10 
+ 	Destination address:           224.0.0.25 
+ 	Protocol:                      IGMP (0x02) 
+ Internet Group Management Protocol                                 
+ 	Unknown message (0xFF)          
+ 	Header checksum:               0x00FF (PASS) 
+                                 
+                                 
+                                 
