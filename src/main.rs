@@ -8,7 +8,7 @@ use pcap::{Activated, Capture, Device};
 use prettytable::{format, Table};
 use structopt::StructOpt;
 
-use rpcs::netframe::{datalink::*, internet::*, transport::*};
+use oxycap::netframe::{datalink::*, internet::*, transport::*};
 
 #[derive(Debug, StructOpt)]
 #[structopt(name = "rpcs")]
