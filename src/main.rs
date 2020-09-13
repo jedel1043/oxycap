@@ -352,8 +352,36 @@ fn handle_ipv4(frame: Ipv4Frame, mut table: Table) {
         IpProtocol::Tcp(frame) => handle_tcp(frame, table),
         IpProtocol::Udp(frame) => handle_udp(frame, table),
         IpProtocol::Icmp(frame) => {
+            let msg = frame.get_control_msg();
             table.add_row(row![H2 -> "Internet Control Management Protocol"]);
-            table.add_row(row![format!("\t{}",frame.get_control_msg())]);
+            table.add_row(row![format!("\t{}", msg)]);
+            match msg {
+                IcmpMsg::Timestamp(ts) => {
+                    table.add_row(row!["\t\tIdentifier:", ts.id()]);
+                    table.add_row(row!["\t\tSequence number:", ts.seq_num()]);
+                    table.add_row(row!["\t\tOriginate timestamp:", ts.originate_timestamp().format("%+")]);
+                }
+                IcmpMsg::TimestampReply(ts) => {
+                    table.add_row(row!["\t\tIdentifier:", ts.id()]);
+                    table.add_row(row!["\t\tSequence number:", ts.seq_num()]);
+                    table.add_row(row!["\t\tOriginate timestamp:", ts.originate_timestamp().format("%+")]);
+                    table.add_row(row!["\t\tReceive timestamp:", ts.receive_timestamp().format("%+")]);
+                    table.add_row(row!["\t\tTrasmit timestamp:", ts.transmit_timestamp().format("%+")]);
+                }
+                IcmpMsg::AddrMaskRequest(req) => {
+                    table.add_row(row!["\t\tIdentifier:", req.id()]);
+                    table.add_row(row!["\t\tSequence number:", req.seq_num()]);
+                }
+                IcmpMsg::AddrMaskReply(req) => {
+                    table.add_row(row!["\t\tIdentifier:", req.id()]);
+                    table.add_row(row!["\t\tSequence number:", req.seq_num()]);
+                    table.add_row(row!["\t\tAddress mask:", req.addr_mask()]);
+                }
+                IcmpMsg::DestUnreachable(DestUnreachable::FragReq(hop)) => {
+                    table.add_row(row!["\t\tNext-hop MTU:", hop]);
+                }
+                _ => {}
+            }
             table.add_row(row![
                 "\tHeader checksum:",
                 format!(
