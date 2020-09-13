@@ -356,16 +356,16 @@ pub enum IcmpMsg {
 impl fmt::Display for IcmpMsg {
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
         match self {
-            Self::EchoReply => write!(f, "Echo reply (used to ping)"),
-            Self::DestUnreachable(opt) => write!(f, "Destination unreachable: {}", opt),
+            Self::EchoReply => write!(f, "Echo reply"),
+            Self::DestUnreachable(_) => write!(f, "Destination unreachable", ),
             Self::SrcQuench => write!(f, "Source quench (congestion control) [deprecated]"),
-            Self::RedirectMsg(opt) => write!(f, "Redirect message: {}", opt),
+            Self::RedirectMsg(_) => write!(f, "Redirect message"),
             Self::AltHostAddr => write!(f, "Alternate Host Address [deprecated]"),
-            Self::EchoRequest => write!(f, "Echo request (used to ping) "),
+            Self::EchoRequest => write!(f, "Echo request"),
             Self::RouterAdv => write!(f, "Router Advertisement"),
             Self::RouterSolicitation => write!(f, "Router discovery/selection/solicitation"),
-            Self::TimeExceeded(opt) => write!(f, "Time exceeded: {}", opt),
-            Self::BadIpHeader(opt) => write!(f, "Parameter Problem - Bad IP header: {}", opt),
+            Self::TimeExceeded(_) => write!(f, "Time exceeded"),
+            Self::BadIpHeader(_) => write!(f, "Parameter Problem - Bad IP header"),
             Self::Timestamp(_) => write!(f, "Timestamp"),
             Self::TimestampReply(_) => write!(f, "Timestamp reply"),
             Self::InfoRequest => write!(f, "Information Request [deprecated]"),

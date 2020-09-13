@@ -1,312 +1,808 @@
- Packet 1 (74 bytes)                                                
- 	Timestamp:                     2011-06-26T22:21:28.309144887-05:00 
+ Packet 1 (42 bytes)                                                
+ 	Timestamp:                     2020-05-22T11:28:27.590164906-05:00 
  	Packet number:                 1 
- 	Packet length:                 74 
- Ethernet II, Src: 00:22:5F:3F:98:91, Dest: 00:0C:CE:13:B9:A0       
- 	Source:                        00:22:5F:3F:98:91 
- 	Destination:                   00:0C:CE:13:B9:A0 
- 	Type:                          IPv4 (0x0800) 
- Internet Protocol, Src: 192.168.0.89, Dest: 192.168.0.1            
- 	Version:                       4 
- 	Header length:                 20 bytes 
- 	Total length:                  60 bytes 
- 	Identification:                0xC63E (50750) 
- 	Flags:                         000 
- 	Fragment offset:               0 
- 	Time to live:                  128 
- 	Header checksum:               0xF2D7 (PASS) 
- 	Source address:                192.168.0.89 
- 	Destination address:           192.168.0.1 
- 	Protocol:                      ICMP (0x01) 
- Internet Control Management Protocol                               
- 	Echo request (used to ping)     
- 	Header checksum:               0x425C (PASS) 
+ 	Packet length:                 42 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: FF:FF:FF:FF:FF:FF       
+ 	Source:                        16:46:8E:84:E8:EE 
+ 	Destination:                   FF:FF:FF:FF:FF:FF 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Request 
+ 	SHA:                           16468E84E8EE 
+ 	SPA:                           0A000101 
+ 	THA:                           000000000000 
+ 	TPA:                           0A0001FE 
                                  
                                  
                                  
- Packet 2 (74 bytes)                                                
- 	Timestamp:                     2011-06-26T22:21:28.309144887-05:00 
+ Packet 2 (42 bytes)                                                
+ 	Timestamp:                     2020-05-22T11:28:27.590164906-05:00 
  	Packet number:                 2 
- 	Packet length:                 74 
- Ethernet II, Src: 00:22:5F:3F:98:91, Dest: 00:0C:CE:13:B9:A0       
- 	Source:                        00:22:5F:3F:98:91 
- 	Destination:                   00:0C:CE:13:B9:A0 
- 	Type:                          IPv4 (0x0800) 
- Internet Protocol, Src: 192.168.0.89, Dest: 192.168.0.1            
- 	Version:                       4 
- 	Header length:                 20 bytes 
- 	Total length:                  60 bytes 
- 	Identification:                0xC63E (50750) 
- 	Flags:                         000 
- 	Fragment offset:               0 
- 	Time to live:                  128 
- 	Header checksum:               0xF2D7 (PASS) 
- 	Source address:                192.168.0.89 
- 	Destination address:           192.168.0.1 
- 	Protocol:                      ICMP (0x01) 
- Internet Control Management Protocol                               
- 	Echo request (used to ping)     
- 	Header checksum:               0x425C (PASS) 
+ 	Packet length:                 42 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: 16:46:8E:84:E8:EE       
+ 	Source:                        08:00:27:E8:7D:8B 
+ 	Destination:                   16:46:8E:84:E8:EE 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Reply 
+ 	SHA:                           080027E87D8B 
+ 	SPA:                           0A0001FE 
+ 	THA:                           16468E84E8EE 
+ 	TPA:                           0A000101 
                                  
                                  
                                  
- Packet 3 (74 bytes)                                                
- 	Timestamp:                     2011-06-26T22:21:28.309144887-05:00 
+ Packet 3 (98 bytes)                                                
+ 	Timestamp:                     2020-05-22T11:28:27.590164906-05:00 
  	Packet number:                 3 
- 	Packet length:                 74 
- Ethernet II, Src: 00:0C:CE:13:B9:A0, Dest: 00:22:5F:3F:98:91       
- 	Source:                        00:0C:CE:13:B9:A0 
- 	Destination:                   00:22:5F:3F:98:91 
+ 	Packet length:                 98 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: 08:00:27:E8:7D:8B       
+ 	Source:                        16:46:8E:84:E8:EE 
+ 	Destination:                   08:00:27:E8:7D:8B 
  	Type:                          IPv4 (0x0800) 
- Internet Protocol, Src: 192.168.0.1, Dest: 192.168.0.89            
+ Internet Protocol, Src: 10.0.1.1, Dest: 10.0.2.254                 
  	Version:                       4 
  	Header length:                 20 bytes 
- 	Total length:                  60 bytes 
- 	Identification:                0xC63E (50750) 
- 	Flags:                         000 
+ 	Total length:                  84 bytes 
+ 	Identification:                0xA600 (42496) 
+ 	Flags:                         010 
  	Fragment offset:               0 
- 	Time to live:                  255 
- 	Header checksum:               0x73D7 (PASS) 
- 	Source address:                192.168.0.1 
- 	Destination address:           192.168.0.89 
+ 	Time to live:                  1 
+ 	Header checksum:               0xBBAA (PASS) 
+ 	Source address:                10.0.1.1 
+ 	Destination address:           10.0.2.254 
  	Protocol:                      ICMP (0x01) 
  Internet Control Management Protocol                               
- 	Echo reply (used to ping)       
- 	Header checksum:               0x4A5C (PASS) 
+ 	Echo request                    
+ 	Header checksum:               0x383A (PASS) 
                                  
                                  
                                  
- Packet 4 (74 bytes)                                                
- 	Timestamp:                     2011-06-26T22:21:29.309144888-05:00 
+ Packet 4 (126 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:28:27.590164906-05:00 
  	Packet number:                 4 
- 	Packet length:                 74 
- Ethernet II, Src: 00:22:5F:3F:98:91, Dest: 00:0C:CE:13:B9:A0       
- 	Source:                        00:22:5F:3F:98:91 
- 	Destination:                   00:0C:CE:13:B9:A0 
+ 	Packet length:                 126 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: 16:46:8E:84:E8:EE       
+ 	Source:                        08:00:27:E8:7D:8B 
+ 	Destination:                   16:46:8E:84:E8:EE 
  	Type:                          IPv4 (0x0800) 
- Internet Protocol, Src: 192.168.0.89, Dest: 192.168.0.1            
+ Internet Protocol, Src: 10.0.1.254, Dest: 10.0.1.1                 
  	Version:                       4 
  	Header length:                 20 bytes 
- 	Total length:                  60 bytes 
- 	Identification:                0xC643 (50755) 
+ 	Total length:                  112 bytes 
+ 	Identification:                0xF4FC (62716) 
  	Flags:                         000 
  	Fragment offset:               0 
- 	Time to live:                  128 
- 	Header checksum:               0xF2D2 (PASS) 
- 	Source address:                192.168.0.89 
- 	Destination address:           192.168.0.1 
+ 	Time to live:                  64 
+ 	Header checksum:               0x6DD2 (PASS) 
+ 	Source address:                10.0.1.254 
+ 	Destination address:           10.0.1.1 
  	Protocol:                      ICMP (0x01) 
  Internet Control Management Protocol                               
- 	Echo request (used to ping)     
- 	Header checksum:               0x415C (PASS) 
+ 	Time exceeded                   
+ 		TTL expired in transit          
+ 	Header checksum:               0xF4FF (PASS) 
                                  
                                  
                                  
- Packet 5 (74 bytes)                                                
- 	Timestamp:                     2011-06-26T22:21:29.309144888-05:00 
+ Packet 5 (42 bytes)                                                
+ 	Timestamp:                     2020-05-22T11:28:32.590164911-05:00 
  	Packet number:                 5 
- 	Packet length:                 74 
- Ethernet II, Src: 00:22:5F:3F:98:91, Dest: 00:0C:CE:13:B9:A0       
- 	Source:                        00:22:5F:3F:98:91 
- 	Destination:                   00:0C:CE:13:B9:A0 
- 	Type:                          IPv4 (0x0800) 
- Internet Protocol, Src: 192.168.0.89, Dest: 192.168.0.1            
- 	Version:                       4 
- 	Header length:                 20 bytes 
- 	Total length:                  60 bytes 
- 	Identification:                0xC643 (50755) 
- 	Flags:                         000 
- 	Fragment offset:               0 
- 	Time to live:                  128 
- 	Header checksum:               0xF2D2 (PASS) 
- 	Source address:                192.168.0.89 
- 	Destination address:           192.168.0.1 
- 	Protocol:                      ICMP (0x01) 
- Internet Control Management Protocol                               
- 	Echo request (used to ping)     
- 	Header checksum:               0x415C (PASS) 
+ 	Packet length:                 42 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: 16:46:8E:84:E8:EE       
+ 	Source:                        08:00:27:E8:7D:8B 
+ 	Destination:                   16:46:8E:84:E8:EE 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Request 
+ 	SHA:                           080027E87D8B 
+ 	SPA:                           0A0001FE 
+ 	THA:                           000000000000 
+ 	TPA:                           0A000101 
                                  
                                  
                                  
- Packet 6 (74 bytes)                                                
- 	Timestamp:                     2011-06-26T22:21:29.309144888-05:00 
+ Packet 6 (42 bytes)                                                
+ 	Timestamp:                     2020-05-22T11:28:32.590164911-05:00 
  	Packet number:                 6 
- 	Packet length:                 74 
- Ethernet II, Src: 00:0C:CE:13:B9:A0, Dest: 00:22:5F:3F:98:91       
- 	Source:                        00:0C:CE:13:B9:A0 
- 	Destination:                   00:22:5F:3F:98:91 
- 	Type:                          IPv4 (0x0800) 
- Internet Protocol, Src: 192.168.0.1, Dest: 192.168.0.89            
- 	Version:                       4 
- 	Header length:                 20 bytes 
- 	Total length:                  60 bytes 
- 	Identification:                0xC643 (50755) 
- 	Flags:                         000 
- 	Fragment offset:               0 
- 	Time to live:                  255 
- 	Header checksum:               0x73D2 (PASS) 
- 	Source address:                192.168.0.1 
- 	Destination address:           192.168.0.89 
- 	Protocol:                      ICMP (0x01) 
- Internet Control Management Protocol                               
- 	Echo reply (used to ping)       
- 	Header checksum:               0x495C (PASS) 
+ 	Packet length:                 42 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: 08:00:27:E8:7D:8B       
+ 	Source:                        16:46:8E:84:E8:EE 
+ 	Destination:                   08:00:27:E8:7D:8B 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Reply 
+ 	SHA:                           16468E84E8EE 
+ 	SPA:                           0A000101 
+ 	THA:                           080027E87D8B 
+ 	TPA:                           0A0001FE 
                                  
                                  
                                  
- Packet 7 (74 bytes)                                                
- 	Timestamp:                     2011-06-26T22:21:30.309144889-05:00 
+ Packet 7 (98 bytes)                                                
+ 	Timestamp:                     2020-05-22T11:29:25.590164964-05:00 
  	Packet number:                 7 
- 	Packet length:                 74 
- Ethernet II, Src: 00:22:5F:3F:98:91, Dest: 00:0C:CE:13:B9:A0       
- 	Source:                        00:22:5F:3F:98:91 
- 	Destination:                   00:0C:CE:13:B9:A0 
+ 	Packet length:                 98 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: 08:00:27:E8:7D:8B       
+ 	Source:                        16:46:8E:84:E8:EE 
+ 	Destination:                   08:00:27:E8:7D:8B 
  	Type:                          IPv4 (0x0800) 
- Internet Protocol, Src: 192.168.0.89, Dest: 192.168.0.1            
+ Internet Protocol, Src: 10.0.1.1, Dest: 10.0.3.1                   
  	Version:                       4 
  	Header length:                 20 bytes 
- 	Total length:                  60 bytes 
- 	Identification:                0xC644 (50756) 
- 	Flags:                         000 
+ 	Total length:                  84 bytes 
+ 	Identification:                0x0A8C (2700) 
+ 	Flags:                         010 
  	Fragment offset:               0 
- 	Time to live:                  128 
- 	Header checksum:               0xF2D1 (PASS) 
- 	Source address:                192.168.0.89 
- 	Destination address:           192.168.0.1 
+ 	Time to live:                  64 
+ 	Header checksum:               0x181C (PASS) 
+ 	Source address:                10.0.1.1 
+ 	Destination address:           10.0.3.1 
  	Protocol:                      ICMP (0x01) 
  Internet Control Management Protocol                               
- 	Echo request (used to ping)     
- 	Header checksum:               0x405C (PASS) 
+ 	Echo request                    
+ 	Header checksum:               0xDB45 (PASS) 
                                  
                                  
                                  
- Packet 8 (74 bytes)                                                
- 	Timestamp:                     2011-06-26T22:21:30.309144889-05:00 
- 	Packet number:                 8 
- 	Packet length:                 74 
- Ethernet II, Src: 00:22:5F:3F:98:91, Dest: 00:0C:CE:13:B9:A0       
- 	Source:                        00:22:5F:3F:98:91 
- 	Destination:                   00:0C:CE:13:B9:A0 
- 	Type:                          IPv4 (0x0800) 
- Internet Protocol, Src: 192.168.0.89, Dest: 192.168.0.1            
- 	Version:                       4 
- 	Header length:                 20 bytes 
- 	Total length:                  60 bytes 
- 	Identification:                0xC644 (50756) 
- 	Flags:                         000 
- 	Fragment offset:               0 
- 	Time to live:                  128 
- 	Header checksum:               0xF2D1 (PASS) 
- 	Source address:                192.168.0.89 
- 	Destination address:           192.168.0.1 
- 	Protocol:                      ICMP (0x01) 
- Internet Control Management Protocol                               
- 	Echo request (used to ping)     
- 	Header checksum:               0x405C (PASS) 
-                                 
-                                 
-                                 
- Packet 9 (74 bytes)                                                
- 	Timestamp:                     2011-06-26T22:21:30.309144889-05:00 
+ Packet 8 (126 bytes)                                                 
+ 	Timestamp:                       2020-05-22T11:29:25.590164964-05:00 
+ 	Packet number:                   8 
+ 	Packet length:                   126 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: 16:46:8E:84:E8:EE         
+ 	Source:                          08:00:27:E8:7D:8B 
+ 	Destination:                     16:46:8E:84:E8:EE 
+ 	Type:                            IPv4 (0x0800) 
+ Internet Protocol, Src: 10.0.1.254, Dest: 10.0.1.1                   
+ 	Version:                         4 
+ 	Header length:                   20 bytes 
+ 	Total length:                    112 bytes 
+ 	Identification:                  0xF4FD (62717) 
+ 	Flags:                           000 
+ 	Fragment offset:                 0 
+ 	Time to live:                    64 
+ 	Header checksum:                 0x6DD1 (PASS) 
+ 	Source address:                  10.0.1.254 
+ 	Destination address:             10.0.1.1 
+ 	Protocol:                        ICMP (0x01) 
+ Internet Control Management Protocol                                 
+ 	Destination unreachable           
+ 		Destination network unreachable   
+ 	Header checksum:                 0xFCFF (PASS) 
+                                   
+                                   
+                                   
+ Packet 9 (42 bytes)                                                
+ 	Timestamp:                     2020-05-22T11:29:30.590164969-05:00 
  	Packet number:                 9 
- 	Packet length:                 74 
- Ethernet II, Src: 00:0C:CE:13:B9:A0, Dest: 00:22:5F:3F:98:91       
- 	Source:                        00:0C:CE:13:B9:A0 
- 	Destination:                   00:22:5F:3F:98:91 
- 	Type:                          IPv4 (0x0800) 
- Internet Protocol, Src: 192.168.0.1, Dest: 192.168.0.89            
- 	Version:                       4 
- 	Header length:                 20 bytes 
- 	Total length:                  60 bytes 
- 	Identification:                0xC644 (50756) 
- 	Flags:                         000 
- 	Fragment offset:               0 
- 	Time to live:                  255 
- 	Header checksum:               0x73D1 (PASS) 
- 	Source address:                192.168.0.1 
- 	Destination address:           192.168.0.89 
- 	Protocol:                      ICMP (0x01) 
- Internet Control Management Protocol                               
- 	Echo reply (used to ping)       
- 	Header checksum:               0x485C (PASS) 
+ 	Packet length:                 42 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: 08:00:27:E8:7D:8B       
+ 	Source:                        16:46:8E:84:E8:EE 
+ 	Destination:                   08:00:27:E8:7D:8B 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Request 
+ 	SHA:                           16468E84E8EE 
+ 	SPA:                           0A000101 
+ 	THA:                           000000000000 
+ 	TPA:                           0A0001FE 
                                  
                                  
                                  
- Packet 10 (74 bytes)                                               
- 	Timestamp:                     2011-06-26T22:21:31.309144890-05:00 
+ Packet 10 (42 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:29:30.590164969-05:00 
  	Packet number:                 10 
- 	Packet length:                 74 
- Ethernet II, Src: 00:22:5F:3F:98:91, Dest: 00:0C:CE:13:B9:A0       
- 	Source:                        00:22:5F:3F:98:91 
- 	Destination:                   00:0C:CE:13:B9:A0 
- 	Type:                          IPv4 (0x0800) 
- Internet Protocol, Src: 192.168.0.89, Dest: 192.168.0.1            
- 	Version:                       4 
- 	Header length:                 20 bytes 
- 	Total length:                  60 bytes 
- 	Identification:                0xC645 (50757) 
- 	Flags:                         000 
- 	Fragment offset:               0 
- 	Time to live:                  128 
- 	Header checksum:               0xF2D0 (PASS) 
- 	Source address:                192.168.0.89 
- 	Destination address:           192.168.0.1 
- 	Protocol:                      ICMP (0x01) 
- Internet Control Management Protocol                               
- 	Echo request (used to ping)     
- 	Header checksum:               0x3F5C (PASS) 
+ 	Packet length:                 42 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: 16:46:8E:84:E8:EE       
+ 	Source:                        08:00:27:E8:7D:8B 
+ 	Destination:                   16:46:8E:84:E8:EE 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Request 
+ 	SHA:                           080027E87D8B 
+ 	SPA:                           0A0001FE 
+ 	THA:                           000000000000 
+ 	TPA:                           0A000101 
                                  
                                  
                                  
- Packet 11 (74 bytes)                                               
- 	Timestamp:                     2011-06-26T22:21:31.309144890-05:00 
+ Packet 11 (42 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:29:30.590164969-05:00 
  	Packet number:                 11 
- 	Packet length:                 74 
- Ethernet II, Src: 00:22:5F:3F:98:91, Dest: 00:0C:CE:13:B9:A0       
- 	Source:                        00:22:5F:3F:98:91 
- 	Destination:                   00:0C:CE:13:B9:A0 
- 	Type:                          IPv4 (0x0800) 
- Internet Protocol, Src: 192.168.0.89, Dest: 192.168.0.1            
- 	Version:                       4 
- 	Header length:                 20 bytes 
- 	Total length:                  60 bytes 
- 	Identification:                0xC645 (50757) 
- 	Flags:                         000 
- 	Fragment offset:               0 
- 	Time to live:                  128 
- 	Header checksum:               0xF2D0 (PASS) 
- 	Source address:                192.168.0.89 
- 	Destination address:           192.168.0.1 
- 	Protocol:                      ICMP (0x01) 
- Internet Control Management Protocol                               
- 	Echo request (used to ping)     
- 	Header checksum:               0x3F5C (PASS) 
+ 	Packet length:                 42 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: 16:46:8E:84:E8:EE       
+ 	Source:                        08:00:27:E8:7D:8B 
+ 	Destination:                   16:46:8E:84:E8:EE 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Reply 
+ 	SHA:                           080027E87D8B 
+ 	SPA:                           0A0001FE 
+ 	THA:                           16468E84E8EE 
+ 	TPA:                           0A000101 
                                  
                                  
                                  
- Packet 12 (74 bytes)                                               
- 	Timestamp:                     2011-06-26T22:21:31.309144890-05:00 
+ Packet 12 (42 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:29:30.590164969-05:00 
  	Packet number:                 12 
- 	Packet length:                 74 
- Ethernet II, Src: 00:0C:CE:13:B9:A0, Dest: 00:22:5F:3F:98:91       
- 	Source:                        00:0C:CE:13:B9:A0 
- 	Destination:                   00:22:5F:3F:98:91 
+ 	Packet length:                 42 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: 08:00:27:E8:7D:8B       
+ 	Source:                        16:46:8E:84:E8:EE 
+ 	Destination:                   08:00:27:E8:7D:8B 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Reply 
+ 	SHA:                           16468E84E8EE 
+ 	SPA:                           0A000101 
+ 	THA:                           080027E87D8B 
+ 	TPA:                           0A0001FE 
+                                 
+                                 
+                                 
+ Packet 13 (98 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:29:48.590164987-05:00 
+ 	Packet number:                 13 
+ 	Packet length:                 98 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: 08:00:27:E8:7D:8B       
+ 	Source:                        16:46:8E:84:E8:EE 
+ 	Destination:                   08:00:27:E8:7D:8B 
  	Type:                          IPv4 (0x0800) 
- Internet Protocol, Src: 192.168.0.1, Dest: 192.168.0.89            
+ Internet Protocol, Src: 10.0.1.1, Dest: 10.0.2.2                   
  	Version:                       4 
  	Header length:                 20 bytes 
- 	Total length:                  60 bytes 
- 	Identification:                0xC645 (50757) 
- 	Flags:                         000 
+ 	Total length:                  84 bytes 
+ 	Identification:                0x9EFD (40701) 
+ 	Flags:                         010 
  	Fragment offset:               0 
- 	Time to live:                  255 
- 	Header checksum:               0x73D0 (PASS) 
- 	Source address:                192.168.0.1 
- 	Destination address:           192.168.0.89 
+ 	Time to live:                  64 
+ 	Header checksum:               0x84A9 (PASS) 
+ 	Source address:                10.0.1.1 
+ 	Destination address:           10.0.2.2 
  	Protocol:                      ICMP (0x01) 
  Internet Control Management Protocol                               
- 	Echo reply (used to ping)       
- 	Header checksum:               0x475C (PASS) 
+ 	Echo request                    
+ 	Header checksum:               0x5513 (PASS) 
+                                 
+                                 
+                                 
+ Packet 14 (126 bytes)                                              
+ 	Timestamp:                     2020-05-22T11:29:51.590164990-05:00 
+ 	Packet number:                 14 
+ 	Packet length:                 126 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: 16:46:8E:84:E8:EE       
+ 	Source:                        08:00:27:E8:7D:8B 
+ 	Destination:                   16:46:8E:84:E8:EE 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.0.1.254, Dest: 10.0.1.1                 
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  112 bytes 
+ 	Identification:                0xF4FE (62718) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  64 
+ 	Header checksum:               0x6DD0 (PASS) 
+ 	Source address:                10.0.1.254 
+ 	Destination address:           10.0.1.1 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Destination unreachable         
+ 		Destination host unreachable    
+ 	Header checksum:               0xFCFE (PASS) 
+                                 
+                                 
+                                 
+ Packet 15 (47 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:30:33.590165032-05:00 
+ 	Packet number:                 15 
+ 	Packet length:                 47 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: 08:00:27:E8:7D:8B       
+ 	Source:                        16:46:8E:84:E8:EE 
+ 	Destination:                   08:00:27:E8:7D:8B 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.0.1.1, Dest: 10.0.2.1                   
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  33 bytes 
+ 	Identification:                0xCE4E (52814) 
+ 	Flags:                         010 
+ 	Fragment offset:               0 
+ 	Time to live:                  64 
+ 	Header checksum:               0x557C (PASS) 
+ 	Source address:                10.0.1.1 
+ 	Destination address:           10.0.2.1 
+ 	Protocol:                      UDP (0x11) 
+ User Datagram Protocol Protocol                                    
+ 	Source port:                   35752 
+ 	Destination port:              20 
+ 	Header checksum:               0x7E45 (PASS) 
+                                 
+                                 
+                                 
+ Packet 16 (75 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:30:33.590165032-05:00 
+ 	Packet number:                 16 
+ 	Packet length:                 75 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: 16:46:8E:84:E8:EE       
+ 	Source:                        08:00:27:E8:7D:8B 
+ 	Destination:                   16:46:8E:84:E8:EE 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.0.2.1, Dest: 10.0.1.1                   
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  61 bytes 
+ 	Identification:                0xF186 (61830) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  63 
+ 	Header checksum:               0x7278 (PASS) 
+ 	Source address:                10.0.2.1 
+ 	Destination address:           10.0.1.1 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Destination unreachable         
+ 		Destination port unreachable    
+ 	Header checksum:               0x141D (PASS) 
+                                 
+                                 
+                                 
+ Packet 17 (42 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:30:38.590165037-05:00 
+ 	Packet number:                 17 
+ 	Packet length:                 42 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: 16:46:8E:84:E8:EE       
+ 	Source:                        08:00:27:E8:7D:8B 
+ 	Destination:                   16:46:8E:84:E8:EE 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Request 
+ 	SHA:                           080027E87D8B 
+ 	SPA:                           0A0001FE 
+ 	THA:                           000000000000 
+ 	TPA:                           0A000101 
+                                 
+                                 
+                                 
+ Packet 18 (42 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:30:38.590165037-05:00 
+ 	Packet number:                 18 
+ 	Packet length:                 42 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: 08:00:27:E8:7D:8B       
+ 	Source:                        16:46:8E:84:E8:EE 
+ 	Destination:                   08:00:27:E8:7D:8B 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Reply 
+ 	SHA:                           16468E84E8EE 
+ 	SPA:                           0A000101 
+ 	THA:                           080027E87D8B 
+ 	TPA:                           0A0001FE 
+                                 
+                                 
+                                 
+ Packet 19 (1442 bytes)                                             
+ 	Timestamp:                     2020-05-22T11:33:02.590165181-05:00 
+ 	Packet number:                 19 
+ 	Packet length:                 1442 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: 08:00:27:E8:7D:8B       
+ 	Source:                        16:46:8E:84:E8:EE 
+ 	Destination:                   08:00:27:E8:7D:8B 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.0.1.1, Dest: 10.0.2.1                   
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  1428 bytes 
+ 	Identification:                0xCA8F (51855) 
+ 	Flags:                         010 
+ 	Fragment offset:               0 
+ 	Time to live:                  64 
+ 	Header checksum:               0x53D8 (PASS) 
+ 	Source address:                10.0.1.1 
+ 	Destination address:           10.0.2.1 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Echo request                    
+ 	Header checksum:               0x02FA (PASS) 
+                                 
+                                 
+                                 
+ Packet 20 (42 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:33:02.590165181-05:00 
+ 	Packet number:                 20 
+ 	Packet length:                 42 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: FF:FF:FF:FF:FF:FF       
+ 	Source:                        08:00:27:E8:7D:8B 
+ 	Destination:                   FF:FF:FF:FF:FF:FF 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Request 
+ 	SHA:                           080027E87D8B 
+ 	SPA:                           0A0001FE 
+ 	THA:                           000000000000 
+ 	TPA:                           0A000101 
+                                 
+                                 
+                                 
+ Packet 21 (42 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:33:02.590165181-05:00 
+ 	Packet number:                 21 
+ 	Packet length:                 42 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: 08:00:27:E8:7D:8B       
+ 	Source:                        16:46:8E:84:E8:EE 
+ 	Destination:                   08:00:27:E8:7D:8B 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Reply 
+ 	SHA:                           16468E84E8EE 
+ 	SPA:                           0A000101 
+ 	THA:                           080027E87D8B 
+ 	TPA:                           0A0001FE 
+                                 
+                                 
+                                 
+ Packet 22 (590 bytes)                                              
+ 	Timestamp:                     2020-05-22T11:33:02.590165181-05:00 
+ 	Packet number:                 22 
+ 	Packet length:                 590 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: 16:46:8E:84:E8:EE       
+ 	Source:                        08:00:27:E8:7D:8B 
+ 	Destination:                   16:46:8E:84:E8:EE 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.0.1.254, Dest: 10.0.1.1                 
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  576 bytes 
+ 	Identification:                0xF4FF (62719) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  64 
+ 	Header checksum:               0x6BFF (PASS) 
+ 	Source address:                10.0.1.254 
+ 	Destination address:           10.0.1.1 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Destination unreachable         
+ 		Next-hop MTU:                  1000 
+ 	Header checksum:               0x0FE1 (PASS) 
+                                 
+                                 
+                                 
+ Packet 23 (134 bytes)                                                                                                                                       
+ 	Timestamp:                                                                                                              2020-05-22T11:33:42.590165221-05:00 
+ 	Packet number:                                                                                                          23 
+ 	Packet length:                                                                                                          134 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: 08:00:27:E8:7D:8B                                                                                                
+ 	Source:                                                                                                                 16:46:8E:84:E8:EE 
+ 	Destination:                                                                                                            08:00:27:E8:7D:8B 
+ 	Type:                                                                                                                   IPv4 (0x0800) 
+ Internet Protocol, Src: 10.0.1.1, Dest: 10.0.2.1                                                                                                            
+ 	Version:                                                                                                                4 
+ 	Header length:                                                                                                          56 bytes 
+ 	Total length:                                                                                                           120 bytes 
+ 	Identification:                                                                                                         0xD5D6 (54742) 
+ 	Flags:                                                                                                                  010 
+ 	Fragment offset:                                                                                                        0 
+ 	Time to live:                                                                                                           64 
+ 	Header checksum:                                                                                                        0x2669 (PASS) 
+ 	Source address:                                                                                                         10.0.1.1 
+ 	Destination address:                                                                                                    10.0.2.1 
+ 	Options:                                                                                                                 
+ 		[68, 36, 13, 1, 10, 0, 1, 1, 3, 141, 190, 144, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]   
+ 	Protocol:                                                                                                               ICMP (0x01) 
+ Internet Control Management Protocol                                                                                                                        
+ 	Echo request                                                                                                             
+ 	Header checksum:                                                                                                        0x79A8 (PASS) 
+                                                                                                                          
+                                                                                                                          
+                                                                                                                          
+ Packet 24 (134 bytes)                                                                                                                                                            
+ 	Timestamp:                                                                                                                                   2020-05-22T11:33:42.590165221-05:00 
+ 	Packet number:                                                                                                                               24 
+ 	Packet length:                                                                                                                               134 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: 16:46:8E:84:E8:EE                                                                                                                     
+ 	Source:                                                                                                                                      08:00:27:E8:7D:8B 
+ 	Destination:                                                                                                                                 16:46:8E:84:E8:EE 
+ 	Type:                                                                                                                                        IPv4 (0x0800) 
+ Internet Protocol, Src: 10.0.2.1, Dest: 10.0.1.1                                                                                                                                 
+ 	Version:                                                                                                                                     4 
+ 	Header length:                                                                                                                               56 bytes 
+ 	Total length:                                                                                                                                120 bytes 
+ 	Identification:                                                                                                                              0xA3EE (41966) 
+ 	Flags:                                                                                                                                       000 
+ 	Fragment offset:                                                                                                                             0 
+ 	Time to live:                                                                                                                                63 
+ 	Header checksum:                                                                                                                             0x2623 (PASS) 
+ 	Source address:                                                                                                                              10.0.2.1 
+ 	Destination address:                                                                                                                         10.0.1.1 
+ 	Options:                                                                                                                                      
+ 		[68, 36, 37, 17, 10, 0, 1, 1, 3, 141, 190, 144, 10, 0, 1, 254, 3, 141, 186, 59, 10, 0, 2, 1, 3, 141, 185, 29, 10, 0, 2, 1, 3, 141, 185, 29]   
+ 	Protocol:                                                                                                                                    ICMP (0x01) 
+ Internet Control Management Protocol                                                                                                                                             
+ 	Echo reply                                                                                                                                    
+ 	Header checksum:                                                                                                                             0x81A8 (PASS) 
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+ Packet 25 (42 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:33:47.590165226-05:00 
+ 	Packet number:                 25 
+ 	Packet length:                 42 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: 16:46:8E:84:E8:EE       
+ 	Source:                        08:00:27:E8:7D:8B 
+ 	Destination:                   16:46:8E:84:E8:EE 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Request 
+ 	SHA:                           080027E87D8B 
+ 	SPA:                           0A0001FE 
+ 	THA:                           000000000000 
+ 	TPA:                           0A000101 
+                                 
+                                 
+                                 
+ Packet 26 (42 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:33:47.590165226-05:00 
+ 	Packet number:                 26 
+ 	Packet length:                 42 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: 08:00:27:E8:7D:8B       
+ 	Source:                        16:46:8E:84:E8:EE 
+ 	Destination:                   08:00:27:E8:7D:8B 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Reply 
+ 	SHA:                           16468E84E8EE 
+ 	SPA:                           0A000101 
+ 	THA:                           080027E87D8B 
+ 	TPA:                           0A0001FE 
+                                 
+                                 
+                                 
+ Packet 27 (138 bytes)                                                                                                                                           
+ 	Timestamp:                                                                                                                  2020-05-22T11:34:11.590165250-05:00 
+ 	Packet number:                                                                                                              27 
+ 	Packet length:                                                                                                              138 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: 08:00:27:E8:7D:8B                                                                                                    
+ 	Source:                                                                                                                     16:46:8E:84:E8:EE 
+ 	Destination:                                                                                                                08:00:27:E8:7D:8B 
+ 	Type:                                                                                                                       IPv4 (0x0800) 
+ Internet Protocol, Src: 10.0.1.1, Dest: 10.0.2.1                                                                                                                
+ 	Version:                                                                                                                    4 
+ 	Header length:                                                                                                              60 bytes 
+ 	Total length:                                                                                                               124 bytes 
+ 	Identification:                                                                                                             0xEB36 (60214) 
+ 	Flags:                                                                                                                      010 
+ 	Fragment offset:                                                                                                            0 
+ 	Time to live:                                                                                                               64 
+ 	Header checksum:                                                                                                            0xFB38 (PASS) 
+ 	Source address:                                                                                                             10.0.1.1 
+ 	Destination address:                                                                                                        10.0.2.1 
+ 	Options:                                                                                                                     
+ 		[1, 7, 39, 8, 10, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]   
+ 	Protocol:                                                                                                                   ICMP (0x01) 
+ Internet Control Management Protocol                                                                                                                            
+ 	Echo request                                                                                                                 
+ 	Header checksum:                                                                                                            0x0DE0 (PASS) 
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+ Packet 28 (138 bytes)                                                                                                                                                    
+ 	Timestamp:                                                                                                                           2020-05-22T11:34:11.590165250-05:00 
+ 	Packet number:                                                                                                                       28 
+ 	Packet length:                                                                                                                       138 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: 16:46:8E:84:E8:EE                                                                                                             
+ 	Source:                                                                                                                              08:00:27:E8:7D:8B 
+ 	Destination:                                                                                                                         16:46:8E:84:E8:EE 
+ 	Type:                                                                                                                                IPv4 (0x0800) 
+ Internet Protocol, Src: 10.0.2.1, Dest: 10.0.1.1                                                                                                                         
+ 	Version:                                                                                                                             4 
+ 	Header length:                                                                                                                       60 bytes 
+ 	Total length:                                                                                                                        124 bytes 
+ 	Identification:                                                                                                                      0xAE8E (44686) 
+ 	Flags:                                                                                                                               000 
+ 	Fragment offset:                                                                                                                     0 
+ 	Time to live:                                                                                                                        63 
+ 	Header checksum:                                                                                                                     0x8E8E (PASS) 
+ 	Source address:                                                                                                                      10.0.2.1 
+ 	Destination address:                                                                                                                 10.0.1.1 
+ 	Options:                                                                                                                              
+ 		[7, 39, 24, 10, 0, 1, 1, 10, 0, 2, 253, 10, 0, 2, 1, 10, 0, 2, 1, 10, 0, 1, 254, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]   
+ 	Protocol:                                                                                                                            ICMP (0x01) 
+ Internet Control Management Protocol                                                                                                                                     
+ 	Echo reply                                                                                                                            
+ 	Header checksum:                                                                                                                     0x15E0 (PASS) 
+                                                                                                                                       
+                                                                                                                                       
+                                                                                                                                       
+ Packet 29 (42 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:34:16.590165255-05:00 
+ 	Packet number:                 29 
+ 	Packet length:                 42 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: 08:00:27:E8:7D:8B       
+ 	Source:                        16:46:8E:84:E8:EE 
+ 	Destination:                   08:00:27:E8:7D:8B 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Request 
+ 	SHA:                           16468E84E8EE 
+ 	SPA:                           0A000101 
+ 	THA:                           000000000000 
+ 	TPA:                           0A0001FE 
+                                 
+                                 
+                                 
+ Packet 30 (42 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:34:16.590165255-05:00 
+ 	Packet number:                 30 
+ 	Packet length:                 42 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: 16:46:8E:84:E8:EE       
+ 	Source:                        08:00:27:E8:7D:8B 
+ 	Destination:                   16:46:8E:84:E8:EE 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Reply 
+ 	SHA:                           080027E87D8B 
+ 	SPA:                           0A0001FE 
+ 	THA:                           16468E84E8EE 
+ 	TPA:                           0A000101 
+                                 
+                                 
+                                 
+ Packet 31 (98 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:34:38.590165277-05:00 
+ 	Packet number:                 31 
+ 	Packet length:                 98 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: 08:00:27:E8:7D:8B       
+ 	Source:                        16:46:8E:84:E8:EE 
+ 	Destination:                   08:00:27:E8:7D:8B 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.0.1.1, Dest: 10.0.2.1                   
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  84 bytes 
+ 	Identification:                0x0498 (1176) 
+ 	Flags:                         010 
+ 	Fragment offset:               0 
+ 	Time to live:                  64 
+ 	Header checksum:               0x1F0D (PASS) 
+ 	Source address:                10.0.1.1 
+ 	Destination address:           10.0.2.1 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Echo request                    
+ 	Header checksum:               0x28D8 (PASS) 
+                                 
+                                 
+                                 
+ Packet 32 (98 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:34:38.590165277-05:00 
+ 	Packet number:                 32 
+ 	Packet length:                 98 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: 16:46:8E:84:E8:EE       
+ 	Source:                        08:00:27:E8:7D:8B 
+ 	Destination:                   16:46:8E:84:E8:EE 
+ 	Type:                          IPv4 (0x0800) 
+ Internet Protocol, Src: 10.0.2.1, Dest: 10.0.1.1                   
+ 	Version:                       4 
+ 	Header length:                 20 bytes 
+ 	Total length:                  84 bytes 
+ 	Identification:                0xB6F2 (46834) 
+ 	Flags:                         000 
+ 	Fragment offset:               0 
+ 	Time to live:                  63 
+ 	Header checksum:               0xADB2 (PASS) 
+ 	Source address:                10.0.2.1 
+ 	Destination address:           10.0.1.1 
+ 	Protocol:                      ICMP (0x01) 
+ Internet Control Management Protocol                               
+ 	Echo reply                      
+ 	Header checksum:               0x30D8 (PASS) 
+                                 
+                                 
+                                 
+ Packet 33 (42 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:34:43.590165282-05:00 
+ 	Packet number:                 33 
+ 	Packet length:                 42 
+ Ethernet II, Src: 08:00:27:E8:7D:8B, Dest: 16:46:8E:84:E8:EE       
+ 	Source:                        08:00:27:E8:7D:8B 
+ 	Destination:                   16:46:8E:84:E8:EE 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Request 
+ 	SHA:                           080027E87D8B 
+ 	SPA:                           0A0001FE 
+ 	THA:                           000000000000 
+ 	TPA:                           0A000101 
+                                 
+                                 
+                                 
+ Packet 34 (42 bytes)                                               
+ 	Timestamp:                     2020-05-22T11:34:43.590165282-05:00 
+ 	Packet number:                 34 
+ 	Packet length:                 42 
+ Ethernet II, Src: 16:46:8E:84:E8:EE, Dest: 08:00:27:E8:7D:8B       
+ 	Source:                        16:46:8E:84:E8:EE 
+ 	Destination:                   08:00:27:E8:7D:8B 
+ 	Type:                          ARP (0x0806) 
+ Address Resolution Protocol                                        
+ 	HTYPE:                         0x0001 
+ 	PTYPE:                         0x0800 
+ 	HLEN:                          0x0006 
+ 	PLEN:                          0x0004 
+ 	OPER:                          Reply 
+ 	SHA:                           16468E84E8EE 
+ 	SPA:                           0A000101 
+ 	THA:                           080027E87D8B 
+ 	TPA:                           0A0001FE 
                                  
                                  
                                  

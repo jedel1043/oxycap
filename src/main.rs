@@ -283,7 +283,7 @@ fn handle_arp(frame: ArpFrame, mut table: Table) {
     let spa = frame.spa().iter().fold(String::new(), to_hex);
     let tha = frame.tha().iter().fold(String::new(), to_hex);
     let tpa = frame.tpa().iter().fold(String::new(), to_hex);
-
+    table.add_row(row![H2 -> "Address Resolution Protocol"]);
     table.add_row(row!["\tHTYPE:", format!("0x{:04X}", frame.htype())]);
     table.add_row(row!["\tPTYPE:", format!("0x{:04X}", frame.ptype())]);
     table.add_row(row!["\tHLEN:", format!("0x{:04X}", frame.hlen())]);
@@ -379,6 +379,18 @@ fn handle_ipv4(frame: Ipv4Frame, mut table: Table) {
                 }
                 IcmpMsg::DestUnreachable(DestUnreachable::FragReq(hop)) => {
                     table.add_row(row!["\t\tNext-hop MTU:", hop]);
+                }
+                IcmpMsg::DestUnreachable(code)  => {
+                    table.add_row(row![format!("\t\t{}", code)]);
+                }
+                IcmpMsg::TimeExceeded(opt) => {
+                    table.add_row(row![format!("\t\t{}", opt)]);
+                }
+                IcmpMsg::BadIpHeader(opt) => {
+                    table.add_row(row![format!("\t\t{}", opt)]);
+                }
+                IcmpMsg::RedirectMsg(addr) => {
+                    table.add_row(row![format!("\t\t{}", addr)]);
                 }
                 _ => {}
             }
